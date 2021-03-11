@@ -1,0 +1,2710 @@
+{
+  "title": "Healthy Side Dish Recipes",
+  "slug": "healthy-side-dishes",
+  "url": "https://www.foodnetwork.com/healthy/packages/healthy-every-week/healthy-sides/healthy-side-dishes",
+  "description": "",
+  "count": "99",
+  "thumbnails": [
+    "//food.fnr.sndimg.com/content/dam/images/food/fullset/2013/12/12/0/MXSP01_quinoa-salad_s4x3.jpg.rend.hgtvcom.301.226.suffix/1387416398115.jpeg",
+    "//food.fnr.sndimg.com/content/dam/images/food/fullset/2012/2/14/0/cc_hasselback-sp_s4x3.jpg.rend.hgtvcom.301.226.suffix/1382541177866.jpeg",
+    "//food.fnr.sndimg.com/content/dam/images/food/fullset/2015/4/2/1/FNK_Healthy-Cauliflower-Rice_s4x3.jpg.rend.hgtvcom.301.226.suffix/1430157224979.jpeg",
+    "//food.fnr.sndimg.com/content/dam/images/food/fullset/2014/4/8/1/FNM_050114-Pea-Salad-with-Tarragon-and-Pea-Shoots-Recipe_s4x3.jpg.rend.hgtvcom.301.226.suffix/1397231586240.jpeg"
+  ],
+  "recipe_urls": [
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/hasselback-sweet-potatoes-recipe-2106932",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/healthy-cauliflower-rice-3363582",
+    "https://www.foodnetwork.com/recipes/alexandra-guarnaschelli/pea-salad-with-tarragon-and-pea-shoots-3363257",
+    "https://www.foodnetwork.com/recipes/giada-de-laurentiis/mediterranean-farro-salad-recipe-1946544",
+    "https://www.foodnetwork.com/recipes/ina-garten/moroccan-couscous-recipe-2040342",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/super-food-spinach-salad-with-pomegranate-glazed-walnuts-recipe-2042214",
+    "https://www.foodnetwork.com/recipes/ina-garten/green-beans-gremolata-1-2109993",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/roasted-beets-with-warm-fennel-vinaigrette-3363156",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/pear-and-fennel-salad-recipe-2103786",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/okra-with-tomatoes-recipe-2103770",
+    "https://www.foodnetwork.com/recipes/ina-garten/roasted-carrots-recipe-1940444",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/roasted-cauliflower-steaks-with-raisin-relish-recipe-2112219",
+    "https://www.foodnetwork.com/recipes/ellie-krieger/green-beans-with-mushroom-and-shallots-recipe-1908615",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/spring-greens-with-oranges-recipe-2104766",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/beets-with-creamy-balsamic-vinaigrette-and-mint-recipe-2120899",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/chile-garlic-edamame-recipe-2105690",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/braised-collard-greens-and-butternut-squash-3362938",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/low-fat-scalloped-potatoes-recipe-2105432",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/buffalo-cauliflower-with-blue-cheese-sauce-3362800",
+    "https://www.foodnetwork.com/recipes/ellie-krieger/spinach-and-green-apple-salad-recipe-1937390",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/pan-roasted-carrots-with-mint-and-parsley-gremolata-recipe-2119429",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/escarole-salad-with-bacon-caramelized-onions-and-blue-cheese-vinaigrette-recipe-2119666",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/creamy-dijon-leeks-recipe-2105356",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/maple-roasted-sweet-potatoes-recipe-2105265",
+    "https://www.foodnetwork.com/recipes/rachael-ray/mashed-potato-skins-recipe2-2117731",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/herb-salad-recipe-2104230",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/orange-glazed-carrots-recipe-2112205",
+    "https://www.foodnetwork.com/recipes/giada-de-laurentiis/herbed-quinoa-recipe-2012212",
+    "https://www.foodnetwork.com/recipes/ina-garten/roasted-brussels-sprouts-recipe2-1941953",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/fennel-potatoes-recipe-2105933",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/apple-and-ham-salad-recipe-1973875",
+    "https://www.foodnetwork.com/recipes/ellie-krieger/wheat-berry-salad-recipe2-2011998",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/edamame-and-shitake-rice-recipe-2105910",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/spicy-chickpeas-and-spinach-recipe-2105995",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/roasted-turnips-and-mushrooms-recipe-2105360",
+    "https://www.foodnetwork.com/recipes/ellie-krieger/jewel-roasted-vegetables-recipe-1926835",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/twice-baked-potatoes-recipe2-2124368",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/healthy-curried-spaghetti-squash-recipe-2042318",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/spicy-coconut-broccoli-rabe-5210908",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/grilled-avocado-with-tahini-5210906",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/provencal-summer-squash-and-potato-gratin-recipe-2105176",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/green-salad-with-buttermilk-dressing-recipe-2105749",
+    "https://www.foodnetwork.com/recipes/giada-de-laurentiis/spicy-parmesan-green-beans-and-kale-recipe-1950207",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/baked-beans-with-swiss-chard-recipe2-1973689",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/corn-and-squash-pudding-recipe-2106825",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/herbed-farro-pilaf-recipe-2119298",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/quinoa-with-shiitakes-and-snow-peas-recipe-2106886",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/healthy-roast-fingerlings-with-lemon-recipe-2106995",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/shaved-cabbage-and-brussels-sprout-salad-recipe-2106881",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/light-spicy-zucchini-and-tomato-casserole-recipe-2119478",
+    "https://www.foodnetwork.com/recipes/quinoa-pilaf-with-crimini-mushrooms-recipe-1957322",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/kale-caesar-salad-recipe-2105629",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/spicy-summer-squash-with-herbs-recipe-2121203",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/purple-potatoes-with-rosemary-and-olives-recipe-2112019",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/sauteed-asparagus-with-olives-and-basil-recipe-2112170",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/rainbow-bell-pepper-couscous-recipe-2121294",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/lemon-pepper-mushrooms-recipe-2120817",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/tuscan-white-beans-recipe-2109852",
+    "https://www.foodnetwork.com/recipes/melissa-darabian/israeli-couscous-tabouli-recipe-1924992",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/spicy-green-tomato-avocado-salad-recipe-2269245",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/sweet-potatoes-with-maple-horseradish-butter-3362853",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/baby-spinach-with-almonds-and-golden-raisins-3363231",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/creamy-chili-lime-corn-3362922",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/asiago-roasted-broccoli-3362717",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/cheesy-mushroom-stacks-3363209",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/spiced-citrus-baby-kale-3362808",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/southwestern-black-beans-3362908",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/roasted-moroccan-style-vegetables-3363239",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/shaved-vegetable-tart-4481621",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/whole-grain-biscuits-recipe-2112111",
+    "https://www.foodnetwork.com/recipes/ina-garten/baked-sweet-potato-fries-with-la-boite-spice-mix-recipe-2101832",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/corn-and-oat-risotto-3362799",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/whole-grain-mushroom-and-kimchi-brown-rice-3362444",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/roasted-beet-salad-recipe-2103747",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/roasted-carrots-with-almonds-and-olives-recipe-2118889",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/coconut-curry-wheat-berries-and-rice-3362736",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/cajun-spelt-3362979",
+    "https://www.foodnetwork.com/recipes/ellie-krieger/creamed-spinach-recipe2-2012242",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/kasha-salad-with-hazelnuts-and-feta-3363161",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/garlic-greens-recipe-2103985",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/barley-pilaf-3363212",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/barley-with-bacon-peas-and-dill-3362615",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/made-over-blackened-cajun-skillet-fries-recipe-2107061",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/kamut-marinara-3363190",
+    "https://www.foodnetwork.com/recipes/guy-fieri/soy-glazed-green-beans-recipe-1922798",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/mexican-green-quinoa-3363234",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/mango-cucumber-rice-salad-recipe-1973784",
+    "https://www.foodnetwork.com/recipes/trisha-yearwood/baked-green-bean-fries-4648362",
+    "https://www.foodnetwork.com/recipes/sunny-anderson/cipollini-onions-braised-in-red-wine-recipe-1946871",
+    "https://www.foodnetwork.com/recipes/ellie-krieger/quinoa-with-garlic-pine-nuts-and-raisins-recipe-1972651",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/triple-herb-freekeh-3362342",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/green-beans-with-tomatoes-recipe-2106142",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/whole-wheat-cornbread-recipe-2107026",
+    "https://www.foodnetwork.com/recipes/ellie-krieger/oven-fries-recipe-1973044",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/mediterranean-bulgur-recipe2-2103524",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/whole-grain-herbed-garlic-bread-recipe-2119194",
+    "https://www.foodnetwork.com/recipes/guy-fieri/grilled-polenta-recipe-1922053",
+    "https://www.foodnetwork.com/recipes/rutabaga-mash-3201880"
+  ],
+  "recipes": [
+    {
+      "title": "Hasselback Sweet Potatoes",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2012/2/14/0/cc_hasselback-sp_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382541177866.jpeg",
+      "review_count": "33 Reviews",
+      "rating": "4.3 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "4 medium sweet potatoes",
+        "1 tablespoon unsalted butter, melted",
+        "1 teaspoon olive oil",
+        "1 teaspoon finely chopped fresh thyme leaves",
+        "1 garlic clove, finely grated on a microplane",
+        "Kosher salt and freshly ground black pepper",
+        "1/3 cup nonfat Greek-style yogurt",
+        "1 scallion, white and green parts chopped"
+      ],
+      "directions": [
+        "              Preheat the oven to 425 degrees F. Line a baking sheet with aluminum foil.             ",
+        "              Make a series of 1/8-inch slices along each potato, slicing 2/3 of the way through.             ",
+        "              Stir together the butter, oil, thyme, garlic, 1/4 teaspoon salt and 1/4 teaspoon pepper in a small bowl. Rub the potatoes all over with the mixture, getting in between the slices.             ",
+        "              Place on the baking sheet and roast until the center of the potatoes are tender and the outside is crisp, 50 minutes to 1 hour. Halfway through the roasting time, remove the potatoes from the oven and run a fork gently across the tops of the potatoes, using light pressure, to fan the slices and separate them from one another.             ",
+        "              Meanwhile, stir the yogurt and scallions with a pinch salt and a pinch pepper. Serve the sauce with the potatoes.             ",
+        "              Per serving: Calories: 150; Total Fat 4 grams; Saturated Fat: 2 grams; Protein: 4 grams; Total carbohydrates: 24 grams; Sugar: 8 grams; Fiber: 4 grams; Cholesterol: 10 milligrams; Sodium: 260 milligrams            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Healthy Cauliflower Rice",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2015/4/2/1/FNK_Healthy-Cauliflower-Rice_s4x3.jpg.rend.hgtvcom.826.620.suffix/1430157224979.jpeg",
+      "review_count": "53 Reviews",
+      "rating": "4.7 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "4 (3/4 to 1 cup servings)",
+      "ingredients": [
+        "Deselect All",
+        "1 large head cauliflower, separated into 1-inch florets",
+        "3 tablespoons olive oil",
+        "1 medium onion, finely diced",
+        "Kosher salt",
+        "2 tablespoons fresh parsley leaves, finely chopped",
+        "Juice of 1/2 lemon"
+      ],
+      "directions": [
+        "              Trim the cauliflower florets, cutting away as much stem as possible. In 3 batches, break up the florets into a food processor and pulse until the mixture resembles couscous.            ",
+        "              Heat the oil in a large skillet over medium-high heat. At the first wisp of smoke from the oil, add the onions, and stir to coat. Continue cooking, stirring frequently, until the onions are golden brown at the edges and have softened, about 8 minutes. Add the cauliflower, and stir to combine. Add 1 teaspoon salt, and continue to cook, stirring frequently, until the cauliflower has softened, 3 to 5 minutes. Remove from the heat.            ",
+        "              Spoon the cauliflower into a large serving bowl, garnish with the parsley, sprinkle with the lemon juice and season to taste with salt. Serve warm.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Pea Salad with Tarragon and Pea Shoots",
+      "author_name": "Alex Guarnaschelli",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/alex-guarnaschelli/FN-TalentAvatar-Alex-Guarnaschelli-colorblock.jpg.rend.hgtvcom.126.126.suffix/1531174923913.jpeg",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2014/4/8/0/FNM_050114-Pea-Salad-with-Tarragon-and-Pea-Shoots-Recipe_s4x3.jpg.rend.hgtvcom.826.620.suffix/1396993212515.jpeg",
+      "review_count": "0 Reviews",
+      "rating": "0.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 30 min",
+      "yield": "4 to 6 servings",
+      "ingredients": [
+        "Deselect All",
+        "1 tablespoon dijon mustard",
+        "1 tablespoon fresh lemon juice",
+        "1 1/2 teaspoons sherry vinegar",
+        "1/4 teaspoon capers, roughly chopped, plus 1/2 teaspoon brine from the jar",
+        "Kosher salt and freshly ground white pepper",
+        "3 tablespoons extra-virgin olive oil",
+        "4 sprigs tarragon, leaves chopped",
+        "Kosher salt",
+        "Sugar",
+        "3/4 pound sugar snap peas, strings removed",
+        "3/4 pound snow peas, trimmed",
+        "1 cup shelled green peas",
+        "Freshly ground white pepper",
+        "1/4 cup pea shoots"
+      ],
+      "directions": [
+        "              Make the dressing: Whisk the mustard, lemon juice and vinegar in a medium bowl. Add the capers and brine and a pinch each of salt and white pepper. Slowly whisk in the olive oil and add the tarragon. Taste for seasoning.            ",
+        "              Bring a large pot of water to a boil, adding salt until it tastes like seawater. Meanwhile, set a colander in a large bowl of ice water (this will keep you from having to pick ice out of the peas later).            ",
+        "              Add a generous pinch of sugar to the boiling water. Add the sugar snap peas and cook until bright green and crisp-tender, about 2 minutes. Use a strainer to remove the peas from the water and transfer them to the colander.            ",
+        "              Bring the water back up to a boil and add the snow peas and shelled peas. Cook until they float to the surface, about 1 minute. Use the strainer to remove the peas and plunge them into the ice bath with the sugar snaps. Set aside for a couple of minutes to ensure the peas have cooled thoroughly.            ",
+        "              Drain the peas, then spread them out on a clean kitchen towel. Use another kitchen towel to gently pat them dry, then let air-dry. (Water on the peas will dilute all of the good flavors.)            ",
+        "              Transfer the peas to a medium bowl and season with salt, white pepper and a sprinkle of sugar. Stir to blend. Toss with the dressing and pea shoots. Taste again for seasoning and serve immediately.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Mediterranean Farro Salad",
+      "author_name": "Giada De Laurentiis",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/giada-de-laurentiis/FN-TalentAvatar-giada-delaurentiis-colorblock.jpg.rend.hgtvcom.126.126.suffix/1531174374472.jpeg",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2011/11/4/0/CCEDI402_Mediterranean-Farro-Salad_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382540663414.jpeg",
+      "review_count": "77 Reviews",
+      "rating": "4.8 of 5 stars",
+      "level": "Easy",
+      "duration": " 15 min",
+      "yield": "4 side-dish servings",
+      "ingredients": [
+        "Deselect All",
+        "10 ounces farro (about 1 1/2 cups)",
+        "1 1/2 teaspoons kosher salt, plus 1/2 teaspoon",
+        "8 ounces green beans, cut into 1- to 2-inch pieces (about 2 cups)",
+        "1/2 cup pitted black olives",
+        "1 medium red pepper, cut into thin strips (about 4 ounces or 1 cup)",
+        "3 ounces Parmesan, crumbled (about 3/4 cup)",
+        "1 small bunch chives, snipped (about 1/4 cup)",
+        "1/4 cup sherry vinegar",
+        "1/4 cup extra-virgin olive oil",
+        "1 tablespoon Dijon mustard",
+        "1 teaspoon freshly ground black pepper"
+      ],
+      "directions": [
+        "              In a medium saucepan, combine 4 cups of water with the farro. Bring to a boil over high heat. Cover and simmer over medium-low heat until the farro is almost tender, about 20 minutes. Add 1 1/2 teaspoons of the salt and simmer until the farro is tender, about 10 minutes longer. Drain well. Transfer to a large bowl and let cool.             ",
+        "              Meanwhile, bring a medium pot of salted water to a boil over high heat. Add the green beans and stir. Cook for 2 minutes. Transfer the cooked green beans to a bowl of ice water and let cool for 2 minutes. Drain the green beans.             ",
+        "              Once the farro has cooled add the green beans, olives, red pepper, Parmesan, and chives. Stir to combine. In a small bowl mix together the sherry vinegar, olive oil, mustard, pepper, and the remaining 1/2 teaspoon salt. Stir to combine. Pour the sherry vinaigrette over the farro salad. Toss to combine and serve.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Moroccan Couscous",
+      "author_name": "Ina Garten",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/ina-garten/FN-TalentAvatar-Ina-Garten-colorblock.jpg.rend.hgtvcom.126.126.suffix/1531174352136.jpeg",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2018/2/16/0/FN_Ina-Garten-Moroccan-Couscous-H-050_s4x3.jpg.rend.hgtvcom.826.620.suffix/1518807264414.jpeg",
+      "review_count": "78 Reviews",
+      "rating": "4.7 of 5 stars",
+      "level": "Easy",
+      "duration": " 5 min",
+      "yield": "6 to 8 servings",
+      "ingredients": [
+        "Deselect All",
+        "4 tablespoons (1/2 stick) unsalted butter",
+        "3/4 cup chopped shallots",
+        "3 cups Homemade Chicken Stock, recipe follows, or canned broth",
+        "1/2 teaspoon kosher salt",
+        "1/2 teaspoon black pepper",
+        "1 1/2 cups couscous",
+        "1/2 cup pignoli nuts, toasted",
+        "1/4 cup currants",
+        "3 (5-pound) chickens",
+        "3 large onions, unpeeled and quartered",
+        "6 carrots, unpeeled and halved",
+        "4 celery stalks with leaves, cut in thirds",
+        "4 parsnips, unpeeled and cut in 1/2, optional",
+        "20 sprigs fresh flat-leaf parsley",
+        "15 sprigs fresh thyme",
+        "20 sprigs fresh dill",
+        "1 head garlic, unpeeled and cut in 1/2 crosswise",
+        "2 tablespoons kosher salt",
+        "2 teaspoons whole black peppercorns"
+      ],
+      "directions": [
+        "              Melt the butter in a large saute pan, add the shallots and cook for 3 minutes over medium heat. Add the chicken stock, salt and pepper, raise the heat to high and bring the stock to a boil. Off the heat and add the couscous. Cover the pan and let it sit for 10 minutes.            ",
+        "              Add the pignoli nuts and currants to the couscous, stir and serve.            ",
+        "              Place the chickens, onions, carrots, celery, parsnips, parsley, thyme, dill, garlic, salt, and peppercorns in a 16 to 20-quart stockpot with 7 quarts of water and bring to a boil. Skim the surface as needed. Simmer uncovered for 4 hours. Strain the entire contents of the pot through a colander, discarding the chicken and vegetables, and chill. Discard the hardened fat, and then pack the broth in quart containers.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Super Food Spinach Salad with Pomegranate-Glazed Walnuts",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2012/2/14/0/CC_SPINACH-SALAD-POMEGRANATE-GLAZED-WALNUTS_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382541199685.jpeg",
+      "review_count": "4 Reviews",
+      "rating": "2.8 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "1/4 cup plus 2 tablespoons pomegranate juice",
+        "1 teaspoon sugar",
+        "Kosher salt",
+        "1/2 cup coarsely chopped walnuts",
+        "1/4 cup thinly sliced red onion",
+        "One 5-ounce container baby spinach",
+        "4 ounces white button mushrooms, trimmed and thinly sliced, about 1 cup",
+        "3/4 cup grape tomatoes, halved",
+        "1 tablespoon red wine vinegar",
+        "1 tablespoon good quality extra virgin olive oil"
+      ],
+      "directions": [
+        "              Combine 1/4 cup juice with the sugar and 1/4 teaspoon salt in a small nonstick skillet. Bring to a simmer over medium-high heat and cook, stirring occasionally, until the mixture reduces slightly, about 5 minutes. Add the walnuts and continue to cook, stirring, until the nuts are coated and dark and the liquid evaporates in the skillet, about another 5 minutes. Transfer to a baking sheet to cool. When cool, break apart with your hands.             ",
+        "              Meanwhile, soak the red onion in ice water for about 10 minutes; drain and pat dry. Place the baby spinach in a serving bowl and top with the onions, mushrooms, tomatoes and walnuts. In a bowl whisk the remaining 2 tablespoons juice with the vinegar, 1/4 teaspoon each salt and pepper, and then whisk in the oil. Drizzle over the salad and toss just before serving.             ",
+        "              Calories: 140 Fat: 10 grams Saturated Fat: 1 gram Protein: 4 grams Carbohydrates: 12 grams Sugar: 6 grams Fiber: 3 grams Cholesterol: 0 milligrams Sodium: 300 milligrams            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Green Beans Gremolata",
+      "author_name": "Ina Garten",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/ina-garten/FN-TalentAvatar-Ina-Garten-colorblock.jpg.rend.hgtvcom.126.126.suffix/1531174352136.jpeg",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2013/1/30/2/BX0801H_green-beans-gremolata-recipe_s4x3.jpg.rend.hgtvcom.826.620.suffix/1483737102837.jpeg",
+      "review_count": "24 Reviews",
+      "rating": "5.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 15 min",
+      "yield": "4 to 6 servings",
+      "ingredients": [
+        "Deselect All",
+        "1 pound French green beans, trimmed",
+        "2 teaspoons minced garlic (2 cloves)",
+        "1 tablespoon grated lemon zest (2 lemons)",
+        "3 tablespoons minced fresh flat-leaf parsley",
+        "3 tablespoons freshly grated Parmesan cheese",
+        "2 tablespoons toasted pine nuts",
+        "2 1/2 tablespoons good olive oil",
+        "Kosher salt and freshly ground black pepper"
+      ],
+      "directions": [
+        "              Bring a large pot of water to a boil. Add the green beans and blanch them for 2 to 3 minutes, until tender but still crisp. Drain the beans in a colander and immediately put them into a bowl of ice water to stop the cooking and preserve their bright green color.             ",
+        "              For the gremolata, toss the garlic, lemon zest, parsley, parmesan, and pine nuts in a small bowl and set aside.             ",
+        "              When ready to serve, heat the olive oil in a large saute pan over medium-high heat. Drain the beans and pat them dry. Add the beans to the pan and saute, turning frequently, for 2 minutes, until coated with olive oil and heated through. Off the heat, add the gremolata and toss well. Sprinkle with 3/4 teaspoon salt and 1/4 teaspoon pepper and serve hot.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Roasted Beets with Warm Fennel Vinaigrette",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2014/4/17/1/FNK_Roasted-Beets-with-Warm-Fennel-Vinaigrette_s4x3.jpg.rend.hgtvcom.826.620.suffix/1397788807235.jpeg",
+      "review_count": "2 Reviews",
+      "rating": "5.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "2 medium fennel bulbs (about 3/4 pound), quartered lengthwise, cored and very thinly sliced",
+        "3 medium beets (about 3/4 pound), peeled and cut into 1-inch chunks",
+        "1/2 cup low-sodium chicken broth",
+        "3 tablespoons extra-virgin olive oil",
+        "Kosher salt and freshly ground black pepper",
+        "3 tablespoons red wine vinegar",
+        "2 tablespoons unsalted butter, melted",
+        "1/2 teaspoon Dijon mustard",
+        "1/2 bunch chives, chopped (about 1/4 cup chopped)"
+      ],
+      "directions": [
+        "              Preheat the oven to 425 degrees F. Put the fennel in a medium bowl, cover with ice water and set aside.            ",
+        "              Put the beets in a 3-quart casserole dish and toss with the chicken broth, 1 tablespoon of the olive oil, 1/2 teaspoon salt and a few grinds of pepper. Cover the dish with foil and bake for 45 minutes. Remove the foil; if there is 1/4 inch or less of liquid, add 1/2 cup of warm water. Continue baking, uncovered, until the cooking liquid is reduced by half and the beets are fork-tender, 25 to 30 minutes.            ",
+        "              Meanwhile, whisk the vinegar, butter, remaining 2 tablespoons oil and mustard in a measuring cup. Strain the fennel and toss with the vinegar mixture in a large bowl. Add the dressed fennel to the beets, toss with tongs and continue baking until the fennel is crisp-tender, about 15 minutes. Remove the dish from the oven, stir the beets and fennel to coat with the sauce and season with 1/4 teaspoon salt and a few grinds of pepper. Transfer to a serving bowl and garnish with the chives.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Pear and Fennel Salad",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2009/8/13/0/FNM100109WeekNight016_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382539094996.jpeg",
+      "review_count": "11 Reviews",
+      "rating": "4.4 of 5 stars",
+      "level": "Easy",
+      "duration": " 15 min",
+      "yield": "4 servings",
+      "ingredients": [],
+      "directions": [
+        "              Whisk 3 tablespoons white wine vinegar with 1/2 teaspoon crushed anise seed, salt and pepper in a serving bowl, then slowly whisk in 1/3 cup olive oil. Add 1 thinly sliced fennel bulb, 2 thinly sliced pears and some parsley; season with salt and pepper and toss. Top with shaved pecorino.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Okra with Tomatoes",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2009/6/17/0/FNM080109Weeknight024_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382538907916.jpeg",
+      "review_count": "23 Reviews",
+      "rating": "5.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 5 min",
+      "yield": "",
+      "ingredients": [],
+      "directions": [
+        "              Saute 4 smashed garlic cloves in 3 tablespoons olive oil over medium heat until golden. Add 4 cups okra (halved lengthwise) and 1 small onion (cut into wedges); season with salt and pepper and cook until the okra is tender and bright, 10 to 12 minutes. Add 1 pint halved cherry tomatoes; cook until just bursting, 3 minutes. Finish with a splash of cider vinegar.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Roasted Carrots",
+      "author_name": "Ina Garten",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/ina-garten/FN-TalentAvatar-Ina-Garten-colorblock.jpg.rend.hgtvcom.126.126.suffix/1531174352136.jpeg",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2003/9/29/0/ig1a09_roasted_carrots.jpg.rend.hgtvcom.826.620.suffix/1393645736360.jpeg",
+      "review_count": "131 Reviews",
+      "rating": "4.8 of 5 stars",
+      "level": "Easy",
+      "duration": " 30 min",
+      "yield": "6 servings",
+      "ingredients": [
+        "Deselect All",
+        "12 carrots",
+        "3 tablespoons good olive oil",
+        "1 1/4 teaspoons kosher salt",
+        "1/2 teaspoons freshly ground black pepper",
+        "2 tablespoons minced fresh dill or parsley"
+      ],
+      "directions": [
+        "              Preheat the oven to 400 degrees F.            ",
+        "              If the carrots are thick, cut them in half lengthwise; if not, leave whole. Slice the carrots diagonally in 1 1/2-inch-thick slices. (The carrots will shrink while cooking so make the slices big.) Toss them in a bowl with the olive oil, salt, and pepper. Transfer to a sheet pan in 1 layer and roast in the oven for 20 minutes, until browned and tender.            ",
+        "              Toss the carrots with minced dill or parsley, season to taste, and serve.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Roasted Cauliflower Steaks with Raisin Relish",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2013/4/26/0/FNK_ROASTED-CAULIFLOWER-STEAKS-WITH-RAISIN-RELISH_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382542446254.jpeg",
+      "review_count": "2 Reviews",
+      "rating": "5.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "1/4 cup finely chopped roasted red peppers",
+        "2 tablespoons golden raisins, chopped",
+        "1 tablespoon finely chopped fresh parsley",
+        "1 tablespoon cider vinegar",
+        "2 teaspoons capers, rinsed, drained and finely chopped ",
+        "Kosher salt and freshly ground black pepper",
+        "1 small head cauliflower (about 2 pounds)",
+        "2 tablespoons extra-virgin olive oil"
+      ],
+      "directions": [
+        "              Preheat the oven to 400 degrees F. Combine the peppers, raisins, parsley, cider vinegar, capers and 1/8 teaspoon each salt and pepper in a bowl.             ",
+        "              Trim the base of the core from the cauliflower, and then cut the head into 1-inch-thick slices. Cut any florets that fall off into 1-inch pieces. Sprinkle 1/4 teaspoon each salt and pepper over both sides of each cauliflower slice. Heat the olive oil in a large nonstick ovenproof skillet over medium-high heat. Add the cauliflower steaks and florets and cook, turning the steaks once, until browned on both sides, about 5 minutes. Transfer the skillet to the oven.             ",
+        "              Roast until a knife easily pierces through the steaks, 15 to 20 minutes. Spoon the relish over the steaks and serve.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Green Beans with Mushroom and Shallots",
+      "author_name": "Ellie Krieger",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/ellie-krieger/FN-TalentAvatar-Ellie-Krieger-colorblock.jpg.rend.hgtvcom.126.126.suffix/1531174841286.jpeg",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2011/8/30/1/cc-armendariz_green-beans-with-mushroom-shallots-recipe_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382540115252.jpeg",
+      "review_count": "12 Reviews",
+      "rating": "5.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 15 min",
+      "yield": "6 servings, serving size 1/2 cup",
+      "ingredients": [
+        "Deselect All",
+        "1 pound fresh green beans, trimmed and cut into 1 inch pieces",
+        "1 tablespoon water",
+        "2 tablespoons olive oil",
+        "1/3 cup sliced shallots (about 2 medium)",
+        "3/4 pound assorted fresh mushrooms, (ie: button, baby bella, shiitake, oyster, chanterelle), sliced",
+        "Salt and freshly ground black pepper"
+      ],
+      "directions": [
+        "              Put green beans in a microwave-safe bowl with the water. Cover tightly and microwave on high for 4 minutes. Carefully remove the cover, drain in a colander, shaking off any excess water, and set aside.            ",
+        "              While the beans are cooking, heat the oil over medium-high heat in a large nonstick skillet. Add the shallots and cook, stirring, until softened slightly, about 2 minutes. Add the mushrooms and cook, stirring occasionally, until the water they release has evaporated and they begin to brown, about 10 minutes. Add the green beans and stir to combine and rewarm. Season with salt and pepper and serve.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Spring Greens with Oranges",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2010/3/3/0/FNM_040110-W-N-Dinners-031_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382539159787.jpeg",
+      "review_count": "7 Reviews",
+      "rating": "4.9 of 5 stars",
+      "level": "Easy",
+      "duration": "",
+      "yield": "",
+      "ingredients": [],
+      "directions": [
+        "              Whisk the grated zest and juice of 1 orange, 1 teaspoon honey and 1/2 cup olive oil in a bowl. Add 12 cups watercress and/or arugula, 3 sliced oranges, 2/3 cup toasted walnuts and 1/4 cup finely sliced fennel and toss.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Beets With Creamy Balsamic Vinaigrette and Mint",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2013/2/14/0/FNK_Beets-With-Creamy-Balsamic-Vinaigrette-and-Mint_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382545265129.jpeg",
+      "review_count": "1 Review",
+      "rating": "5.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 15 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "3 cloves garlic, unpeeled",
+        "2 large beets (about 1 pound)",
+        "1/3 cup 2-percent plain Greek yogurt",
+        "1 tablespoon low-sodium vegetable broth or water",
+        "2 teaspoons white balsamic vinegar",
+        "2 teaspoons extra-virgin olive oil",
+        "Kosher salt and freshly ground black pepper",
+        "2 tablespoons fresh small mint leaves",
+        "1 tablespoon roasted or raw unsalted pistachios, chopped"
+      ],
+      "directions": [
+        "              Wrap the garlic cloves together in a piece of parchment paper; wrap each beet separately in parchment. Place the garlic and beets in a microwave-safe dish and cook for 3 minutes. Remove the garlic and set aside, still wrapped. Continue to cook the beets in intervals of 2 minutes, until they can be easily pierced with a knife, 8 to 10 minutes. Let sit wrapped in parchment to complete the cooking process and until cool enough to handle, about 15 minutes.            ",
+        "              Meanwhile, whisk together the yogurt, broth, vinegar, oil and 1/8 teaspoon salt in a small bowl. Peel the garlic cloves, mash completely and whisk into the vinaigrette. Season with salt and pepper. (Alternatively, make the vinaigrette with the microwave-roasted garlic up to a few hours in advance to allow the flavors to blend. Cover and refrigerate. Bring to room temperature before serving.)            ",
+        "              Peel the beets using a paring knife and cut into wedges or slices. Arrange on a platter, drizzle with the vinaigrette and sprinkle with the mint and pistachios. Serve immediately, while still warm.            "
+      ],
+      "chef_note": "The beets are \"roasted\" in the microwave, saving time and energy. The garlic is also \"roasted\" in the microwave, to mellow its bite."
+    },
+    {
+      "title": "Chile-Garlic Edamame",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2011/3/1/0/FNM_040111-WN-Dinners-018_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382539780769.jpeg",
+      "review_count": "8 Reviews",
+      "rating": "5.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 5 min",
+      "yield": "4 servings",
+      "ingredients": [],
+      "directions": [
+        "              Cook 1 pound frozen edamame in the pods in salted boiling water until tender, 5 minutes; drain. Heat 1 tablespoon olive oil, 1/4 teaspoon red pepper flakes and 2 sliced garlic cloves in a skillet over medium heat, 1 to 2 minutes. Stir in the edamame, some lime juice and salt.            ",
+        "              Serves: 4 Calories: 159 Total Fat: 9 grams Saturated Fat: 0.5 grams Protein: 12 grams Total carbohydrates: 11 grams Sugar: 3 grams Fiber: 5.5 grams Cholesterol: 0 milligrams Sodium: 127 milligrams Photograph by Antonis Achilleos            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Braised Collard Greens and Butternut Squash",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2014/4/17/1/FNK_Braised-Collard-Greens-and-Butternut-Squash_s4x3.jpg.rend.hgtvcom.826.620.suffix/1397786993861.jpeg",
+      "review_count": "1 Review",
+      "rating": "0.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "6 servings",
+      "ingredients": [
+        "Deselect All",
+        "2 tablespoons olive oil",
+        "1 small shallot, chopped",
+        "Kosher salt",
+        "1 clove garlic, smashed",
+        "1 tablespoon grated ginger",
+        "Freshly ground black pepper",
+        "10 ounces collard greens, cleaned, stemmed and chopped into 1 1/2-inch pieces",
+        "10 ounces frozen cubed butternut squash",
+        "2 tablespoons unsalted butter",
+        "Fresh lemon juice or hot sauce, optional",
+        "2 tablespoons olive oil",
+        "1 small shallot, chopped",
+        "Kosher salt",
+        "1 clove garlic, smashed",
+        "1 tablespoon grated ginger",
+        "Freshly ground black pepper",
+        "10 ounces collard greens, cleaned, stemmed and chopped into 1 1/2-inch pieces",
+        "10 ounces frozen cubed butternut squash",
+        "2 tablespoons unsalted butter",
+        "Fresh lemon juice or hot sauce, optional"
+      ],
+      "directions": [
+        "              Heat the oil in a large skillet over medium-high heat. Add the shallots and 1/2 teaspoon salt and cook, stirring, until the shallots are soft, about 3 minutes.            ",
+        "              Lower the heat to medium and add the garlic, ginger and a few grinds of pepper; stir until combined.            ",
+        "              Add the collard greens, 1 1/2 cups water and 1/2 teaspoon salt and bring to a boil, then cook, stirring occasionally, until the collards wilt, about 5 minutes.            ",
+        "              Lower the heat to medium-low, cover and cook until the collards are tender, about 15 minutes. Add the squash, cover and cook until tender, about 5 minutes.            ",
+        "              Remove the lid, increase the heat to medium-high and cook until the liquid has evaporated, about 5 minutes. Add the butter and toss to coat. Serve hot with a squeeze of lemon juice or hot sauce if using.            ",
+        "              Heat the oil in a large skillet over medium-high heat. Add the shallots and 1/2 teaspoon salt and cook, stirring, until the shallots are soft, about 3 minutes.            ",
+        "              Lower the heat to medium and add the garlic, ginger and a few grinds of pepper; stir until combined.            ",
+        "              Add the collard greens, 1 1/2 cups water and 1/2 teaspoon salt and bring to a boil, then cook, stirring occasionally, until the collards wilt, about 5 minutes.            ",
+        "              Lower the heat to medium-low, cover and cook until the collards are tender, about 15 minutes. Add the squash, cover and cook until tender, about 5 minutes.            ",
+        "              Remove the lid, increase the heat to medium-high and cook until the liquid has evaporated, about 5 minutes. Add the butter and toss to coat. Serve hot with a squeeze of lemon juice or hot sauce if using.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Low-Fat Scalloped Potatoes",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2010/11/1/0/FNM_120110-Lighten-Up-001_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382539483568.jpeg",
+      "review_count": "27 Reviews",
+      "rating": "3.9 of 5 stars",
+      "level": "Easy",
+      "duration": "",
+      "yield": "6-8 servings",
+      "ingredients": [
+        "Deselect All",
+        "2 tablespoons unsalted butter, plus more for the dish",
+        "Kosher salt",
+        "3 pounds Yukon gold potatoes, peeled and thinly sliced ",
+        "2 tablespoons all-purpose flour",
+        "1 cup low-fat milk (1%), at room temperature",
+        "1 cup whole milk, at room temperature",
+        "Freshly ground pepper",
+        "1/4 teaspoon freshly grated nutmeg",
+        "1/4 cup grated gruyere cheese"
+      ],
+      "directions": [
+        "              Preheat the oven to 350 degrees F. Lightly butter a 3-quart flameproof baking dish. Bring a large pot of salted water to a boil; add the potatoes and cook until just tender, 8 to 10 minutes. Drain the potatoes and return to the pot.            ",
+        "              Meanwhile, melt 2 tablespoons butter in a saucepan over medium heat. Stir in the flour with a wooden spoon to make a paste. Cook, stirring, until the paste puffs slightly, about 1 minute. Gradually whisk in both milks and simmer, whisking constantly, until thickened, about 3 minutes. Remove from the heat and whisk in 1/2 teaspoon pepper, 1 1/2 teaspoons salt and the nutmeg. Pour the sauce over the potatoes and gently toss to coat.            ",
+        "              Transfer the potato mixture to the prepared baking dish and sprinkle with the gruyere. Bake until heated through, about 10 minutes. Switch the oven to the broiler setting and broil the potatoes until browned on top, about 5 minutes. Let rest 10 minutes before serving.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Buffalo Cauliflower with Blue Cheese Sauce",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2014/4/17/0/FNK_Buffalo-Cauliflower-with-Blue-Cheese-Sauce_s4x3.jpg.rend.hgtvcom.826.620.suffix/1397746377607.jpeg",
+      "review_count": "47 Reviews",
+      "rating": "4.4 of 5 stars",
+      "level": "Easy",
+      "duration": " 15 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "1/3 cup nonfat sour cream",
+        "2 tablespoons crumbled blue cheese",
+        "1 tablespoon skim milk",
+        "2 teaspoons mayonnaise",
+        "Kosher salt and freshly ground black pepper",
+        "2 tablespoons unsalted butter",
+        "1/4 cup hot sauce, such as Frank's",
+        "1 tablespoon freshly squeezed lemon juice",
+        "2 tablespoons olive oil",
+        "Kosher salt",
+        "8 cups cauliflower florets (from about 1 medium head)"
+      ],
+      "directions": [
+        "              Preheat the oven to 400 degrees F.            ",
+        "              For the cheese sauce: Whisk together the sour cream, blue cheese, milk, mayonnaise, 1/8 teaspoon salt and a few grinds of pepper in a small bowl. Cover and refrigerate until chilled, about 30 minutes            ",
+        "              For the Buffalo cauliflower: Meanwhile, microwave the butter in a small microwave-safe bowl on high until melted. Whisk in the hot sauce and lemon juice and set aside.            ",
+        "              Mix olive oil, 1/4 teaspoon salt and 1/2 cup water in a large bowl. Add the cauliflower and toss until well coated. Spread the cauliflower on a rimmed baking sheet and roast until beginning to brown and just tender, 20 to 25 minutes. Whisk the hot sauce mixture again, drizzle over the cauliflower and toss with tongs to coat. Roast the cauliflower until the sauce is bubbling and browned around the edges, 5 to 7 minutes more. Serve hot with the cheese sauce.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Spinach and Green Apple Salad",
+      "author_name": "Ellie Krieger",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/ellie-krieger/FN-TalentAvatar-Ellie-Krieger-colorblock.jpg.rend.hgtvcom.126.126.suffix/1531174841286.jpeg",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2008/2/14/0/EK0405_Spinach_and_Green_Apple_Salad.jpg.rend.hgtvcom.826.620.suffix/1432464698090.jpeg",
+      "review_count": "24 Reviews",
+      "rating": "4.5 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "4 servings, serving size is 2 cups",
+      "ingredients": [
+        "Deselect All",
+        "2 tablespoons olive oil",
+        "1 tablespoon cider vinegar",
+        "1 teaspoon Dijon mustard",
+        "Salt and freshly ground pepper",
+        "5 ounces baby spinach leaves (about 5 cups lightly packed)",
+        "1 Granny Smith apple",
+        "1/3 cup walnut pieces, toasted in a dry skillet over a medium-high flame until fragrant, about 2 minutes"
+      ],
+      "directions": [
+        "              In a small bowl whisk together the oil, vinegar and mustard. Season with salt and pepper to taste.            ",
+        "              Toss the spinach with the dressing until evenly coated then divide the spinach among 4 serving plates.            ",
+        "              Core the apple and slice it into matchsticks. Sprinkle a quarter of the apple pieces on top of each salad. Follow with the walnut pieces. Serve immediately.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Pan-Roasted Carrots with Mint and Parsley Gremolata",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2012/2/14/0/CC_PAN-ROASTED-CARROTS-WITH-GREMOLATA_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382541181808.jpeg",
+      "review_count": "6 Reviews",
+      "rating": "5.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 15 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "1 1/2 pounds carrots, cut on a diagonal into 3-inch-long pieces, halved lengthwise",
+        "1/2 cup low-sodium vegetable or chicken broth",
+        "4 teaspoons olive oil",
+        "Kosher salt and freshly ground black pepper",
+        "1/4 cup chopped mint",
+        "1/4 cup chopped parsley",
+        "2 teaspoons fresh lemon juice",
+        "1/2 teaspoon finely grated lemon zest"
+      ],
+      "directions": [
+        "              Place the carrots, broth and 1 teaspoon of the oil in a large skillet and bring to a boil over medium-high heat. Cover, reduce the heat to medium and continue to cook until the carrots are tender, 12 to 14 minutes. Uncover and cook, stirring, until the liquid has evaporated and the carrots are lightly browned, another 2 to 3 minutes. Season with 1/4 teaspoon salt and 1/4 teaspoon pepper.             ",
+        "              Meanwhile, combine the mint, parsley, juice, zest and remaining 3 teaspoons oil in a small dish. Sprinkle with salt and pepper. Toss the warm carrots with the herb mixture.             "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Escarole Salad with Bacon, Caramelized Onions and Blue Cheese Vinaigrette",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2012/2/22/1/FNKEE_escarole-salad_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382541331773.jpeg",
+      "review_count": "0 Reviews",
+      "rating": "0.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 5 min",
+      "yield": "8 servings",
+      "ingredients": [
+        "Deselect All",
+        "4 strips bacon (about 4 ounces)",
+        "1 large onion, thinly sliced (about 3 1/2 cups)",
+        "Kosher salt and freshly ground black pepper",
+        "Kosher salt and freshly ground black pepper ",
+        "4 ounces mild blue cheese, such as Maytag, crumbled (about 3/4 cup)",
+        "3 tablespoons white wine vinegar",
+        "3 tablespoons extra-virgin olive oil",
+        "1 large head escarole, coarsely chopped (about 1 pound or 12 cups chopped)"
+      ],
+      "directions": [
+        "              1. Cook the bacon over medium heat in a medium skillet until crispy, about 12 minutes. Transfer to a paper towel-lined plate. To the drippings add the sliced onions and toss well. Cook until deep brown and well caramelized, stirring occasionally, another 25 minutes. Season with 1/4 teaspoon each salt and pepper.             ",
+        "              2. Meanwhile, in a small bowl stir together the cheese, vinegar and oil. The dressing will be chunky and not completely emulsified. Place the escarole in a large serving bowl and crumble the bacon over it. When the onions are done and still warm, sprinkle over the escarole along with the dressing. Toss well just before serving and season to taste with salt and pepper.             "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Creamy Dijon Leeks",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2010/12/28/0/FNM_010111-WNDinners-060_s3x4.jpg.rend.hgtvcom.826.620.suffix/1382539719001.jpeg",
+      "review_count": "11 Reviews",
+      "rating": "4.7 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "4 servings",
+      "ingredients": [],
+      "directions": [
+        "              Halve 1 bunch leeks lengthwise, then cut into 3-inch pieces. Cook in a steamer basket until tender, 10 to 12 minutes. Cook 1 minced shallot in a saucepan with 1 tablespoon olive oil, 2 minutes; season with salt. Add 1 tablespoon flour and cook 1 minute. Whisk in 1 cup chicken broth and cook until thickened, 4 minutes. Whisk in 1 1/2 tablespoons dijon mustard and 3 tablespoons minced parsley. Spoon over the leeks.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Maple-Roasted Sweet Potatoes",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2010/9/15/0/Healthy_Sweet-Potatoes-011_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382539458284.jpeg",
+      "review_count": "9 Reviews",
+      "rating": "4.1 of 5 stars",
+      "level": "Easy",
+      "duration": " 20 min",
+      "yield": "6 servings",
+      "ingredients": [
+        "Deselect All",
+        "2 pounds small sweet potatoes (about 5), peeled and cut lengthwise into 1-inch wedges",
+        "1 tablespoon vegetable oil",
+        "Kosher salt and freshly ground black pepper",
+        "1 tablespoon pure maple syrup",
+        "1/2 teaspoon finely grated lemon zest",
+        "Sea salt and freshly grated nutmeg, to taste, for serving"
+      ],
+      "directions": [
+        "              Preheat the oven to 425 degrees F. Toss the sweet potatoes on a large, foil-lined rimmed baking sheet with the oil; season, to taste, with salt and pepper. Roast the potatoes for 20 minutes.            ",
+        "              Remove the pan from the oven and toss the potatoes with the syrup.            ",
+        "              Back in the oven, roast, tossing twice, until the potatoes are beginning to brown and are tender, about 15 minutes more. To serve, sprinkle warm potatoes with freshly grated lemon zest, sea salt, and nutmeg to taste.            "
+      ],
+      "chef_note": "Only a small bit of oil and maple syrup are needed to coat these thick wedges of potatoes. Roasting them at a high temperature browns them well and deepens the flavors. A fresh sprinkle of lemon zest adds flavor without fat."
+    },
+    {
+      "title": "Mashed Potato Skins",
+      "author_name": "Rachael Ray",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/rachael-ray/FN-TalentAvatar-Rachael-Ray-colorblock.jpg.rend.hgtvcom.126.126.suffix/1531174952566.jpeg",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2009/2/11/0/mashedpotatoskins_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382538837078.jpeg",
+      "review_count": "12 Reviews",
+      "rating": "4.8 of 5 stars",
+      "level": "Easy",
+      "duration": " 15 min",
+      "yield": "6 servings",
+      "ingredients": [
+        "Deselect All",
+        "6 slices turkey bacon",
+        "2 pounds small Yukon gold potatoes, halved",
+        "Salt",
+        "1 cup buttermilk, eyeball it",
+        "Freshly ground black pepper",
+        "1/4 cup chopped fresh chives, a handful",
+        "1/2 cup shredded extra-sharp Cheddar cheese, yellow or white, 2 handfuls"
+      ],
+      "directions": [
+        "              Preheat the oven to 350 degrees.             ",
+        "              Arrange the turkey bacon on a sheet pan and bake for 12 to 15 minutes, until crisp. Cool and chop.             ",
+        "              Put the potatoes in a medium sauce pot and cover with cold water. Bring the water to a boil and season with salt. Cook until tender, about 15 minutes. Drain and mash potatoes with buttermilk and season with salt and pepper. Stir in the chives and cheddar and fold in the bacon.             ",
+        "              Rachael cuts calories here by using turkey bacon, and buttermilk instead of sour cream. As she says, \"If you eat well, you can eat more!\"              "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Herb Salad",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2010/1/21/0/FNM_030110-Weeknight-032_s4x3.jpg.rend.hgtvcom.826.620.suffix/1383235905436.jpeg",
+      "review_count": "0 Reviews",
+      "rating": "0.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 15 min",
+      "yield": "",
+      "ingredients": [],
+      "directions": [
+        "              Separate 1 large head Bibb lettuce. Combine in a large bowl with 2 tablespoons each of torn basil, dill, parsley and mint. Toss with the juice of 1/2 lemon and 2 tablespoons olive oil, and season with salt and pepper.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Orange-Glazed Carrots",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2013/4/26/1/FNK_ORANGE-GLAZED-CARROTS_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382542445815.jpeg",
+      "review_count": "2 Reviews",
+      "rating": "5.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "1 pound carrots",
+        "1 cup fresh orange juice",
+        "1 tablespoon unsalted butter",
+        "Kosher salt and freshly ground black pepper",
+        "1 tablespoon picked fresh dill leaves"
+      ],
+      "directions": [
+        "              Cut a 1-inch chunk off one end of a carrot at an angle. Roll the carrot a quarter turn and cut another 1-inch chunk at an angle. Continue rolling and cutting all of the carrots into 1-inch chunks. Combine the carrots and orange juice in a large saucepan. Add enough water to just cover the carrots. Add the butter and 1/4 teaspoon each salt and pepper.             ",
+        "              Bring to a boil, and then reduce the heat to maintain a steady simmer. Cook, stirring occasionally, until the carrots are tender and the liquid has reduced to a glaze, about 20 minutes. Top with the dill and serve.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Herbed Quinoa",
+      "author_name": "Giada at Home",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/shows/g/giada-at-home/new/FN_GiadaAtHome_ShowChip.jpg.rend.hgtvcom.126.126.suffix/1591985707831.jpeg",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2011/4/19/0/FN_quinoa-004_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382539861840.jpeg",
+      "review_count": "249 Reviews",
+      "rating": "4.2 of 5 stars",
+      "level": "Easy",
+      "duration": " 8 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "2 3/4 cups low-sodium chicken stock",
+        "1/4 cup fresh lemon juice",
+        "1 1/2 cups quinoa",
+        "1/4 cup extra-virgin olive oil",
+        "1/4 cup fresh lemon juice",
+        "3/4 cup chopped fresh basil leaves",
+        "1/4 cup chopped fresh parsley leaves",
+        "1 tablespoon chopped fresh thyme leaves",
+        "2 teaspoons lemon zest",
+        "Kosher salt and freshly ground black pepper"
+      ],
+      "directions": [
+        "              For the quinoa: In a medium saucepan, add the chicken stock, lemon juice and quinoa. Bring to a boil over medium-high heat. Reduce the heat to a simmer, cover the pan and cook until all the liquid is absorbed, about 12 to 15 minutes.            ",
+        "              For the dressing: In a small bowl, mix together the olive oil, lemon juice, basil, parsley, thyme, and lemon zest. Season with salt and pepper, to taste.            ",
+        "              Pour the dressing over the quinoa and toss until all the ingredients are coated. Transfer the quinoa to a bowl. Season with salt and pepper, to taste, and serve.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Roasted Brussels Sprouts",
+      "author_name": "Ina Garten",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/ina-garten/FN-TalentAvatar-Ina-Garten-colorblock.jpg.rend.hgtvcom.126.126.suffix/1531174352136.jpeg",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2010/8/12/0/FN-Thanksgiving-2010_Brussels-Sprouts_s4x3.jpg.rend.hgtvcom.826.620.suffix/1384540892898.jpeg",
+      "review_count": "697 Reviews",
+      "rating": "4.7 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "6 servings",
+      "ingredients": [
+        "Deselect All",
+        "1 1/2 pounds Brussels sprouts",
+        "3 tablespoons good olive oil",
+        "3/4 teaspoon kosher salt",
+        "1/2 teaspoon freshly ground black pepper"
+      ],
+      "directions": [
+        "              Preheat oven to 400 degrees F.            ",
+        "              Cut off the brown ends of the Brussels sprouts and pull off any yellow outer leaves. Mix them in a bowl with the olive oil, salt and pepper. Pour them on a sheet pan and roast for 35 to 40 minutes, until crisp on the outside and tender on the inside. Shake the pan from time to time to brown the sprouts evenly. Sprinkle with more kosher salt ( I like these salty like French fries), and serve immediately.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Fennel Potatoes",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2011/7/28/1/FNM-090111_WN-Dinners-025_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382539977329.jpeg",
+      "review_count": "3 Reviews",
+      "rating": "5.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 20 min",
+      "yield": "",
+      "ingredients": [],
+      "directions": [
+        "              Toss 1 pound halved fingerling potatoes with 1 sliced fennel bulb, 1 sliced white onion, 6 sliced garlic cloves, 8 sage leaves, 3 tablespoons olive oil, and salt and pepper on a baking sheet. Roast at 425 degrees F until golden and crisp, 35 to 40 minutes, tossing halfway through. Season with salt and drizzle with olive oil.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Apple-and-Ham Salad",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2011/8/29/1/FNM_100111-WEDinners-001-0_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382540101245.jpeg",
+      "review_count": "4 Reviews",
+      "rating": "4.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 20 min",
+      "yield": "6 servings",
+      "ingredients": [
+        "Deselect All",
+        "3 crisp apples (such as Cortland)",
+        "Juice of 1 lemon",
+        "3 tablespoons extra-virgin olive oil",
+        "5 shallots, thinly sliced",
+        "Kosher salt",
+        "2 tablespoons apple cider vinegar",
+        "2 tablespoons dijon mustard",
+        "1/4 cup sour cream",
+        "1/2 pound deli-sliced Black Forest ham, torn into pieces",
+        "2 bunches watercress, trimmed",
+        "4 endives, sliced crosswise",
+        "Freshly ground pepper"
+      ],
+      "directions": [
+        "              Thinly slice the apples. Toss with the lemon juice in a large bowl.            ",
+        "              Make the dressing: Heat the olive oil in a skillet over medium heat. Add the shallots and 1/2 teaspoon salt and cook, stirring occasionally, until golden, about 8 minutes. Whisk in the vinegar and mustard; remove from the heat and let cool slightly. Whisk in the sour cream and 1/4 cup water.            ",
+        "              Add the dressing to the bowl with the apples. Add the ham, watercress and endives. Season with salt and pepper and toss to coat.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Wheat Berry Salad",
+      "author_name": "Ellie Krieger",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/ellie-krieger/FN-TalentAvatar-Ellie-Krieger-colorblock.jpg.rend.hgtvcom.126.126.suffix/1531174841286.jpeg",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2011/6/6/0/EK0512_Wheat-Berry-Salad_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382539984850.jpeg",
+      "review_count": "73 Reviews",
+      "rating": "4.8 of 5 stars",
+      "level": "Easy",
+      "duration": " 15 min",
+      "yield": "6 servings, serving size 3/4 cup",
+      "ingredients": [
+        "Deselect All",
+        "1 1/2 cups hard wheat berries",
+        "3/4 cup chopped walnuts",
+        "2 stalks celery, finely chopped",
+        "1/2 cup tart dried cherries, chopped",
+        "1 scallion, white and green parts, chopped",
+        "1/2 cup finely chopped parsley leaves",
+        "3 tablespoons olive oil",
+        "2 tablespoons lemon juice",
+        "Salt and freshly ground black pepper"
+      ],
+      "directions": [
+        "              In a large pot combine the wheat berries and enough water to come 2 inches over the wheat berries. Bring to a boil and cook uncovered for 1 hour, or until tender. Drain and let cool. Toast the walnuts in a medium dry skillet over medium-high heat until fragrant, 2 to 3 minutes.            ",
+        "              In a large bowl, combine the wheat berries, walnuts, celery, dried cherries, scallions, parsley, olive oil and lemon juice. Season, to taste, with salt and pepper.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Edamame and Shiitake Rice",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2011/4/5/3/RX-FNM_050111-WE-Dinners-002_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382539862177.jpeg",
+      "review_count": "3 Reviews",
+      "rating": "4.7 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "6 servings",
+      "ingredients": [],
+      "directions": [
+        "              Soak 1 ounce dried shiitake mushrooms in 2 cups boiling water, covered, until soft, 40 minutes. Drain, reserving the liquid. Discard the stems and chop the mushrooms. Cook 2 cups sushi rice as the label directs, using 1/2 cup mushroom-soaking liquid in place of 1/2 cup water. Cook 1 1/2 cups frozen edamame in salted boiling water until tender, 6 minutes. Add the edamame and shiitakes to the rice; season with salt.             ",
+        "              Per serving: Calories: 303; Total Fat: 2 grams; Saturated Fat: 0 grams; Protein: 9 grams; Total carbohydrates: 61 grams; Sugar: 1 gram; Fiber: 4.5 grams; Cholesterol: 0 milligrams; Sodium: 123 milligrams Photograph by Con Poulos            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Spicy Chickpeas and Spinach",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2011/8/29/1/FNM_100111-WN-Dinners-017_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382540092159.jpeg",
+      "review_count": "1 Review",
+      "rating": "5.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 5 min",
+      "yield": "",
+      "ingredients": [],
+      "directions": [
+        "              Toss 2 cans chickpeas (drained, rinsed and dried), 2 tablespoons olive oil, 1 1/2 teaspoons paprika, 1/2 teaspoon chipotle chile powder and 1 teaspoon salt. Roast in a 400 degrees F oven until golden, 20 to 25 minutes. Toss with 4 cups baby spinach, 1 1/2 tablespoons olive oil and salt to taste. Serve with lemon wedges.             "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Roasted Turnips and Mushrooms",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2011/1/18/0/FNM_010111-WN-Dinners-070_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382539587660.jpeg",
+      "review_count": "11 Reviews",
+      "rating": "4.5 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "4 servings",
+      "ingredients": [],
+      "directions": [
+        "              Toss 1 pound halved baby turnips and 10 ounces small white mushroom caps on a baking sheet with 2 teaspoons chopped rosemary. Drizzle with 2 tablespoons olive oil and season with salt and pepper. Turn the turnips cut-side down, then roast at 425 degrees F until golden and tender, 25 to 30 minutes.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Jewel Roasted Vegetables",
+      "author_name": "Ellie Krieger",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/ellie-krieger/FN-TalentAvatar-Ellie-Krieger-colorblock.jpg.rend.hgtvcom.126.126.suffix/1531174841286.jpeg",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2011/8/30/1/cc-armendariz_jewel-roasted-vegetables-recipe-03_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382540122109.jpeg",
+      "review_count": "26 Reviews",
+      "rating": "4.7 of 5 stars",
+      "level": "Easy",
+      "duration": " 25 min",
+      "yield": "6 servings (serving size 1 1/3 cups)",
+      "ingredients": [
+        "Deselect All",
+        "4 medium beets",
+        "3 tablespoons olive oil, divided",
+        "1 1/2 pounds carrots",
+        "1 1/2 pounds Brussels sprouts",
+        "8 large garlic cloves",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon freshly ground black pepper",
+        "1 tablespoon freshly chopped thyme leaves"
+      ],
+      "directions": [
+        "              Preheat the oven to 375 degrees F.            ",
+        "              Put the beets into a small baking dish and rub them with 1 tablespoon of oil. Cover the dish with foil and put into the oven for 30 minutes.            ",
+        "              In the meantime, peel and cut the carrots into 1-inch pieces, trim the Brussels sprouts and halve them lengthwise, and peel the garlic cloves. Put the carrots, Brussels sprouts and garlic cloves into a large baking dish and toss with the remainder of the oil. Sprinkle with salt and pepper.            ",
+        "              After the beets have been cooking for 30 minutes add the large pan of vegetables to the oven and cook everything for 1 hour more, stirring the vegetable mixture once or twice.            ",
+        "              Remove the beets from the oven and transfer them to a cutting board to cool. Stir the thyme into the carrot and Brussels sprouts mixture and let it continue to cook for another 10 minutes while the beets are cooled and cut. When the beets are cool enough to handle, about 5 minutes, peel them and cut them into 1-inch pieces. Remove the other vegetables from the oven, toss with the beets, season with salt and pepper, to taste, and serve.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Twice Baked Potatoes",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2010/11/8/0/FN_Baked-Potatoes-006-R_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382539807161.jpeg",
+      "review_count": "3 Reviews",
+      "rating": "5.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 25 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "4 medium russet potatoes, about 6 ounces each",
+        "1 teaspoon vegetable oil",
+        "Kosher salt",
+        "1 tablespoon unsalted butter",
+        "2 leeks, (white and light green parts), halved lengthwise and thinly sliced",
+        "Freshly ground black pepper ",
+        "2 cloves garlic, minced",
+        "2 teaspoons freshly chopped thyme",
+        "4 ounces 1/3-less fat chive-and-onion flavored cream cheese",
+        "1/2 cup skim milk ",
+        "1 tablespoon chopped fresh parsley, plus extra for garnish"
+      ],
+      "directions": [
+        "              Preheat the oven to 375 degrees F. Rub the potatoes with the oil and season generously with kosher salt. Place on a baking sheet and bake until the potatoes are very tender on the inside and crisp on the outside, about 1 hour, 15 minutes. Let stand 5 minutes.            ",
+        "              Meanwhile, heat the butter in a large nonstick skillet set over medium heat. Add the leeks and season with salt and pepper, cook until soft, about 6 to 8 minutes. Add the garlic and thyme and cook until fragrant, 1 minute. Cool slightly.            ",
+        "              Cut lengthwise, opening down the center of each potato, stopping about 1-inch from each end. Scoop out the insides into a large bowl, keeping about 1/4-inch shell of potato next to the skin.            ",
+        "              Add the leek mixture, cream cheese and milk to the potato and mash well with a fork until combined but slightly chunky. Stir in the chopped parsley. Spoon the filling back into the potato shells, about 1/2 cup of filling for each potato and place back on the baking sheet. Bake until heated through and the tops are lightly browned, 20 to 25 minutes. Garnish with extra parsley.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Healthy Curried Spaghetti Squash",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2012/2/14/0/CC_CURRIED-SPAGHETTI-SQUASH_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382541156545.jpeg",
+      "review_count": "16 Reviews",
+      "rating": "3.8 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "1 medium spaghetti squash (about 2 3/4 pounds)",
+        "1 tablespoon olive oil or unsalted butter",
+        "2 teaspoons finely grated ginger",
+        "1 teaspoon garam masala",
+        "2 tablespoons lemon juice",
+        "4 teaspoons honey",
+        "1/4 teaspoon kosher salt, plus more for seasoning",
+        "1/2 cup coarsely chopped cilantro leaves"
+      ],
+      "directions": [
+        "              Cut the squash in half lengthwise and scoop out the seeds. Place the cut-side down in a microwave-safe baking dish (the halves can overlap one another a bit) and add 1 cup water. Cover with plastic wrap and microwave until very tender and a knife easily pierces the skin of the squash, 15 to 18 minutes. Let stand 5 minutes. Carefully uncover and let stand until cool enough to handle but still warm.             ",
+        "              Meanwhile, heat the oil in a small nonstick skillet. Add the ginger and garam masala until fragrant. Stir in the lemon juice and honey. Season with the salt. The sauce should be sweet and sour.             ",
+        "              Scrape the flesh of the squash into a bowl, using a fork, to make long noodle-like strands. Toss with the sauce and cilantro. Season with additional salt.             ",
+        "              Calories: 140 Fat: 5 grams Saturated Fat: 1 gram Protein: 2 grams Carbohydrates: 26 grams Sugar: 6 grams Fiber: 0 grams Cholesterol: 0 milligrams Sodium: 170 milligrams            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Spicy Coconut Broccoli Rabe",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2018/4/12/0/FNM_050118-Spicy-Coconut-Broccoli-Rabe_s4x3.jpg.rend.hgtvcom.826.620.suffix/1523547439985.jpeg",
+      "review_count": "0 Reviews",
+      "rating": "0.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "4 servings",
+      "ingredients": [],
+      "directions": [
+        "              Cook 1 bunch chopped broccoli rabe in boiling salted water until tender, 2 to 3 minutes; drain. Toast 1/4 cup chopped salted peanuts, 2 tablespoons unsweetened coconut flakes and 1/4 teaspoon red pepper flakes in 3 tablespoons vegetable oil in a large skillet, 1 to 2 minutes. Add the broccoli rabe and 2 sliced garlic cloves; toss. Season with salt.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Grilled Avocado with Tahini",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2018/4/12/0/FNM_050118-Grilled-Avocado-with-Tahini_s4x3.jpg.rend.hgtvcom.826.620.suffix/1523547438414.jpeg",
+      "review_count": "1 Review",
+      "rating": "0.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "4 servings",
+      "ingredients": [],
+      "directions": [
+        "              Whisk 2 tablespoons each lemon juice, tahini and hot water, 1 grated garlic clove, 1/2 teaspoon honey and a pinch each of salt and pepper in a bowl. Brush 2 pitted, peeled and quartered avocados with olive oil; season with salt and pepper. Grill over medium-high heat, flipping, until charred, 30 seconds per side. Top with the tahini sauce and parsley.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Provencal Summer Squash and Potato Gratin",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2010/9/15/0/Healthy_Squash-Gratin-004_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382539424679.jpeg",
+      "review_count": "16 Reviews",
+      "rating": "4.9 of 5 stars",
+      "level": "Intermediate",
+      "duration": " 20 min",
+      "yield": "6 side dish servings",
+      "ingredients": [
+        "Deselect All",
+        "Cooking spray",
+        "1 medium yellow summer squash (about 8 ounces)",
+        "1 medium zucchini (about 8 ounces)",
+        "1 small Yukon gold potato, about 4 ounces, scrubbed and thinly sliced",
+        "1/4 small sweet onion, such as Vidalia, thinly sliced ",
+        "Kosher salt and freshly ground black pepper",
+        "1 sprig fresh rosemary, leaves removed",
+        "1 tablespoon olive oil",
+        "1/4 cup (1 1/2 ounces) freshly grated Manchego cheese"
+      ],
+      "directions": [
+        "              Preheat the oven to 375 degrees F. Lightly mist a shallow 2-quart baking or gratin dish with cooking spray.            ",
+        "              Thinly slice the squash, zucchini, potato, and onion 1/4-inch thick with a mandolin or by hand. Shingle the vegetables in the prepared baking dish in one layer. Season with salt and pepper. Sprinkle with the rosemary leaves and drizzle with olive oil. Cover with foil and bake until the potatoes are tender, 30 to 35 minutes.            ",
+        "              Remove the foil; sprinkle with the cheese. Bake until the cheese is browned and most of the liquid has evaporated, about 45 minutes more. Let stand at least 10 minutes. Serve warm or at room temperature.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Green Salad With Buttermilk Dressing",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2011/5/4/1/FNM_060111-WN-Dinners-007_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382539573606.jpeg",
+      "review_count": "1 Review",
+      "rating": "5.0 of 5 stars",
+      "level": "Easy",
+      "duration": "",
+      "yield": "4 servings",
+      "ingredients": [],
+      "directions": [
+        "              Puree 2 scallions, 1/2 garlic clove, 1/4 cup each buttermilk and plain yogurt, 2 teaspoons rice vinegar and 1/4 teaspoon each sugar and salt in a blender. Toss 2 heads butter lettuce, 1/2 cup shredded carrots, some fresh cilantro and parsley, and the dressing in a large bowl; season with salt and pepper.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Spicy Parmesan Green Beans and Kale",
+      "author_name": "Giada De Laurentiis",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/giada-de-laurentiis/FN-TalentAvatar-giada-delaurentiis-colorblock.jpg.rend.hgtvcom.126.126.suffix/1531174374472.jpeg",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2008/9/8/1/greenbeansandkale.jpg.rend.hgtvcom.826.620.suffix/1387413620962.jpeg",
+      "review_count": "116 Reviews",
+      "rating": "4.5 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "6 servings",
+      "ingredients": [
+        "Deselect All",
+        "3 tablespoons olive oil",
+        "1 onion, sliced",
+        "1/4 pound cremini mushrooms, trimmed and quartered (about 14 mushrooms)",
+        "1 1/2 pounds green beans, trimmed and slice into 1-inch pieces",
+        "2 teaspoons salt",
+        "1/2 teaspoon freshly ground black pepper",
+        "1/4 cup white wine",
+        "1/2 teaspoon red pepper flakes",
+        "1 bunch kale (1/2 pound), rinsed, stemmed, and roughly chopped",
+        "2 tablespoons lemon juice (about 1/2 a lemon)",
+        "3 tablespoons finely grated Parmesan"
+      ],
+      "directions": [
+        "              Warm the olive oil in a large, heavy saute pan over medium-high heat. Add the onions and cook until translucent, about 4 minutes. Add the mushrooms, green beans, salt, and pepper and cook for 2 minutes. Add the wine and continue cooking until the green beans are almost tender, about 5 minutes. Add the red pepper flakes and the kale and continue cooking until the kale has wilted, about 4 to 5 minutes. Add the lemon juice and the Parmesan cheese. Toss to coat and serve immediately.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Baked Beans With Swiss Chard",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2011/6/3/0/FNM_070111-Light-Rich-Sides-006_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382539986833.jpeg",
+      "review_count": "18 Reviews",
+      "rating": "4.9 of 5 stars",
+      "level": "Easy",
+      "duration": " 15 min",
+      "yield": "6 servings",
+      "ingredients": [
+        "Deselect All",
+        "1 tablespoon extra-virgin olive oil",
+        "1/2 small onion, chopped",
+        "1 small stalk celery, finely chopped",
+        "1 small carrot, finely chopped",
+        "2 cloves garlic, finely chopped",
+        "Kosher salt and freshly ground pepper",
+        "1 small bunch Swiss chard or mustard greens, stems removed, leaves chopped",
+        "1/2 cup diced smoked turkey or lean ham (about 2 ounces)",
+        "1 15-ounce can whole tomatoes, crushed by hand",
+        "2 15-ounce cans pinto beans, drained and rinsed",
+        "1 15-ounce can navy beans, undrained",
+        "1/4 cup chopped fresh parsley",
+        "1 teaspoon chopped fresh thyme",
+        "1 teaspoon chopped fresh oregano"
+      ],
+      "directions": [
+        "              Preheat the oven to 375 degrees F. Heat the olive oil in a large skillet over medium heat. Add the onion, celery, carrot, garlic and 1/4 teaspoon each salt and pepper; cook, stirring occasionally, until the vegetables are soft and golden, about 7 minutes.            ",
+        "              Add the chard, turkey and 1/4 cup water to the skillet; cook, stirring, until the chard wilts slightly, about 3 minutes. Add the tomatoes with their juice, increase the heat to medium high and simmer until slightly reduced, about 5 minutes. Add the pinto beans, then add the navy beans and their liquid. Add the parsley, thyme and oregano and return to a simmer.            ",
+        "              Coarsely mash about one-quarter of the beans in the skillet with a potato masher or fork to thicken the mixture; season with salt. Transfer to a 2-quart baking dish. Cover and bake 45 minutes, then uncover and bake 10 more minutes.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Corn and Squash Pudding",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2012/2/14/0/CC_TRIPLE-CORN-AND-SQUASH-PUDDING_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382541201948.jpeg",
+      "review_count": "2 Reviews",
+      "rating": "4.5 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "6 servings",
+      "ingredients": [
+        "Deselect All",
+        "Nonstick cooking spray, for greasing",
+        "1 tablespoon unsalted butter",
+        "2 cloves garlic, minced",
+        "1 onion, chopped",
+        "One 10-ounce box frozen cooked winter squash, thawed and drained",
+        "One 10-ounce box frozen whole kernel corn, thawed",
+        "1 1/2 cups 2-percent milk",
+        "1/3 cup cornmeal",
+        "1/4 cup chopped fresh parsley",
+        "1/4 teaspoon freshly grated nutmeg",
+        "Pinch cayenne pepper",
+        "Kosher salt and freshly ground black pepper",
+        "3 large egg whites",
+        "2 cups cornflake cereal"
+      ],
+      "directions": [
+        "              Preheat the oven to 350 degrees F. Mist an 8-inch square baking dish with nonstick cooking spray. Heat the butter in a medium nonstick skillet over medium heat. Add the garlic and onions and cook until softened, 4 minutes, and then add the squash and cook until dry. Stir in the corn and set aside to cool slightly.             ",
+        "              Combine the milk, cornmeal, parsley, nutmeg, cayenne, 1/2 teaspoon salt and 1/4 teaspoon pepper in a large bowl until smooth. Stir in the skillet mixture.             ",
+        "              Whip the egg whites in a separate bowl to stiff peaks and fold into the corn mixture. Fold in the cornflakes, pour into the prepared baking dish and smooth the top. Bake until lightly browned around the edges and a thin knife inserted into the center comes out clean, 45 to 50 minutes.             ",
+        "              Calories: 140 Fat: 3 grams Saturated Fat: 1.5 grams Protein: 6 grams Carbohydrates: 26 grams Sugar: 6 grams Fiber: 2 grams Cholesterol: 5 milligrams Sodium: 220 milligrams            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Herbed Farro Pilaf",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2012/2/14/0/CC_HEALTHY-HERBED-FARRO-SALAD_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382541205103.jpeg",
+      "review_count": "7 Reviews",
+      "rating": "5.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 5 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "1 tablespoon canola oil",
+        "1/4 cup broken spaghetti, linguine or orzo",
+        "3/4 cup farro",
+        "1 shallot, finely chopped",
+        "1 1/2 cups low-sodium chicken or vegetable stock",
+        "1/4 teaspoon kosher salt",
+        "1/4 cup chopped parsley",
+        "2 teaspoons chopped fresh thyme or oregano"
+      ],
+      "directions": [
+        "              In a medium saucepan, heat the canola oil over medium-high heat. Add the pasta and cook, stirring frequently, just until it turns golden brown, about 2 minutes. Stir in the farro and shallots and continue to cook, stirring, 2 more minutes. Stir in the chicken stock and salt and bring to a boil. Lower the heat, cover the pan and simmer until the farro is very tender, about 35 minutes. Check the farro towards the end of cooking and add 1 to 2 tablespoons water if the pan dries out before the farro is tender.             ",
+        "              Top with the parsley and thyme, fluff with a fork and serve.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Quinoa With Shiitakes and Snow Peas",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2012/2/14/0/CC_QUINOA-SHIITAKE-SNOWPEAS_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382541188891.jpeg",
+      "review_count": "",
+      "rating": "",
+      "level": "Easy",
+      "duration": " 15 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "1 cup quinoa, rinsed",
+        "1 tablespoon toasted sesame oil",
+        "2 cloves garlic, thinly sliced",
+        "4 ounces shiitake mushrooms, stems discarded, caps thinly sliced (about 2 cups)",
+        "4 ounces snow peas, thinly sliced on an angle",
+        "Kosher salt and freshly ground black pepper",
+        "1 tablespoon low-sodium soy sauce",
+        "1 scallion, white and green, sliced"
+      ],
+      "directions": [
+        "              Place the quinoa and 2 cups water in a small saucepan. Bring to a boil over high heat. Stir once, cover and reduce the heat to low. Continue to cook until the water is absorbed and the quinoa is tender, about 20 minutes. Remove from the heat and let stand 5 minutes, uncover and fluff with a fork.            ",
+        "              Meanwhile, heat 1 teaspoon of the sesame oil in a medium nonstick skillet over medium-high heat. Add the garlic and cook until fragrant, about 1 minute. Add the mushrooms and continue to cook, stirring, until the mushrooms are tender, about 5 minutes. Add the snow peas, 1/4 teaspoon salt and 1/4 teaspoon pepper. Cook, stirring, until bright green but still crisp-tender, about 3 minutes. Remove from the heat. Combine the cooked quinoa, mushroom mixture, soy sauce, scallions and remaining 2 teaspoons sesame oil in a medium bowl. Toss gently to combine. Season with additional salt and pepper. Serve warm or at room temperature.             ",
+        "              Calories: 210 Fat: 6 grams Saturated Fat: 1 gram Protein: 8 grams Carbohydrates: 32 grams Sugar: 2 grams Fiber: 4 grams Cholesterol: 0 milligrams Sodium: 260 milligrams            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Healthy Roast Fingerlings with Lemon",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2012/2/14/0/CC_ROAST-FINGERLINGS-WITH-LEMON_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382541191608.jpeg",
+      "review_count": "3 Reviews",
+      "rating": "5.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 5 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "1 1/2 pounds fingerling potatoes, halved lengthwise",
+        "1 lemon, thickly sliced, seeded and each slice quartered ",
+        "1 tablespoon olive oil",
+        "Kosher salt and freshly ground pepper to taste",
+        "Kosher salt and freshly ground pepper to taste ",
+        "1 clove garlic, minced"
+      ],
+      "directions": [
+        "              Preheat the oven to 400 degrees F and position a rack in the top third of the oven.             ",
+        "              Line a baking sheet with parchment paper. Place the potatoes and lemons on the sheet, drizzle with the oil and sprinkle with salt and pepper. Roast until tender and browned, about 1 hour, stirring the potatoes once or twice during cooking. Sprinkle with the garlic and roast 5 more minutes.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Shaved Cabbage and Brussels Sprout Salad",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2012/2/14/0/CC_SHAVED-CABBAGE-BRUSSELS-SPROUT-SALAD-01_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382541189760.jpeg",
+      "review_count": "0 Reviews",
+      "rating": "0.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 20 min",
+      "yield": "6 servings",
+      "ingredients": [
+        "Deselect All",
+        "1/4 large head red cabbage, thinly sliced (about 5 cups)",
+        "8 ounces Brussels sprouts, thinly sliced (about 2 1/2 cups)",
+        "1/3 cup chopped chives",
+        "1 Gala apple, cut into matchsticks",
+        "1/2 cup buttermilk",
+        "3 tablespoons white wine vinegar",
+        "2 teaspoons olive oil",
+        "Kosher salt and freshly ground black pepper"
+      ],
+      "directions": [
+        "              Toss the cabbage with the sprouts, chives and apples in a small bowl.             ",
+        "              Whisk the buttermilk with the vinegar and oil in a separate small bowl. Pour the dressing over the salad, add 1/2 teaspoon salt and 1/4 teaspoon pepper and toss well.             ",
+        "              Chill, covered, for about 1 hour. Toss well and season with additional salt and pepper.             "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Light Spicy Zucchini and Tomato Casserole",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2012/9/5/0/FNK_Light-Spicy-Zucchini-and-Tomato-Casserole-Recipe_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382541803380.jpeg",
+      "review_count": "1 Review",
+      "rating": "5.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "2 pounds zucchini",
+        "Nonstick cooking spray, for greasing",
+        "Kosher salt and freshly ground black pepper.",
+        "Kosher salt and freshly ground black pepper. ",
+        "1 teaspoon olive oil",
+        "2 cloves garlic, minced",
+        "1 red or green jalapeno, finely diced, seeded if desired",
+        "1 teaspoon chili powder",
+        "1/2 teaspoon ground cumin",
+        "One 14.5-ounce can no-salt-added fire-roasted diced tomatoes",
+        "1/3 cup crumbled Cotija cheese",
+        "2 tablespoons roughly chopped cilantro"
+      ],
+      "directions": [
+        "              Preheat the oven broiler. Slice the zucchini on a sharp angle about 1/2-inch thick and place on a baking sheet lined with foil and nonstick cooking spray. Coat the zucchini with nonstick cooking spray and season with 1/4 teaspoon salt and 1/4 teaspoon pepper. Broil, flipping once, until just golden, 6 to 8 minutes. Reduce the oven temperature to 425 degrees F.             ",
+        "              Meanwhile, heat the oil in a medium pot set over medium-high heat. Add the garlic and jalapeno and cook until softened, 2 to 3 minutes. Add the chili powder, cumin and tomatoes. Continue to cook until the tomatoes are soft and the sauce is thickened, about 10 minutes. Remove from the heat, lightly mash with a fork and season with salt and pepper.             ",
+        "              Coat an 8-inch square baking dish with cooking spray. Place about 1/2 of the zucchini in the bottom of the dish and top with 1/2 of the tomato sauce. Repeat the layers and cover with foil. Bake until bubbly and hot, about 20 minutes. Remove the foil, sprinkle with the cheese and continue to bake until the cheese is melted and lightly browned, about 10 minutes. Let stand 10 minutes, sprinkle with the cilantro.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Quinoa Pilaf with Crimini Mushrooms",
+      "author_name": "",
+      "author_img": "",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2009/3/11/0/QuinoaPilaf_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382538977931.jpeg",
+      "review_count": "27 Reviews",
+      "rating": "4.1 of 5 stars",
+      "level": "Intermediate",
+      "duration": " 15 min",
+      "yield": "4 to 6 servings",
+      "ingredients": [
+        "Deselect All",
+        "1 tablespoon kosher for Passover olive oil",
+        "1 small shallot, peeled and chopped",
+        "1/2 cup crimini mushrooms, wiped clean and thinly sliced",
+        "1 1/2 cups quinoa, rinsed well and drained",
+        "1/2 teaspoon fresh thyme leaves removed from their stems",
+        "1 bay leaf",
+        "1 1/2 teaspoons kosher salt",
+        "Freshly ground black pepper",
+        "3 cups vegetable stock, or water"
+      ],
+      "directions": [
+        "              Place a saucepan on high heat and get it hot. Add the olive oil and swirl it around to make sure the entire surface is covered with oil. Add the shallot and sweat (cook until translucent but not brown). Add the crimini mushrooms and cook until brown. Add the quinoa, thyme leaves, bay leaf, kosher salt and black pepper to the pan and stir. Let the ingredients heat up and roast a little to bring out all their fullest flavors. The steam coming up should be very aromatic.            ",
+        "              Slowly and carefully add the vegetable stock (it will spatter because the pan and ingredients are hot). When it comes to full boil, reduce the heat to a low simmer, cover and allow to steam for about 15 minutes.            ",
+        "              After 15 minutes, turn off the heat, remove lid and fluff the quinoa and then replace the lid and allow to sit for about 10 minutes.            ",
+        "              Taste for seasoning and adjust, if necessary. Serve.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Kale Caesar Salad",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2011/2/4/0/RX-FNM_030111-Weeknight-Dinners-026_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382539865543.jpeg",
+      "review_count": "11 Reviews",
+      "rating": "3.5 of 5 stars",
+      "level": "Easy",
+      "duration": " 15 min",
+      "yield": "4 servings",
+      "ingredients": [],
+      "directions": [
+        "              Puree 1/3 cup olive oil, 1 garlic clove, 2 anchovy fillets, 1 teaspoon Worcestershire sauce, and salt and pepper to taste in a blender. Toss 1 1/2 cups crusty bread cubes with 1 tablespoon of the dressing; broil on a baking sheet until toasted, about 2 minutes. Toss 1 1/4 pounds chopped kale with the remaining dressing; broil on another baking sheet, stirring, until crisp, 5 to 8 minutes. Put the kale and croutons in a bowl and top with lemon juice, grated parmesan and a chopped hard-boiled egg.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Spicy Summer Squash with Herbs",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2013/4/26/0/FNK_SPICY-SUMMER-SQUASH-WITH-HERBS_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382542471191.jpeg",
+      "review_count": "2 Reviews",
+      "rating": "4.5 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "1 1/2 tablespoons extra-virgin olive oil",
+        "3 medium yellow or green summer squash or a mix, diced (about 1 1/2 pounds)",
+        "1 small jalapeno, minced (with some seeds)",
+        "1 medium onion, diced",
+        "1 1/2 teaspoons white wine vinegar",
+        "Kosher salt and freshly ground black pepper ",
+        "2 teaspoons finely chopped fresh sage or rosemary",
+        "1 large clove garlic, minced",
+        "1/4 cup minced fresh chives"
+      ],
+      "directions": [
+        "              Heat the oil in a large nonstick skillet over medium-high heat. Add the squash, jalapenos, onions, vinegar, 3/4 teaspoon salt and pepper to taste and stir to combine. Cover and cook until the squash starts to brown, stirring twice during cooking, about 6 minutes.             ",
+        "              Remove the lid and continue to cook, stirring occasionally, until the squash is nicely browned and tender, another 6 minutes. Add the sage and garlic and cook for 1 minute. Season with salt to taste. Stir in the chives, transfer to a bowl or platter and serve.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Purple Potatoes with Rosemary and Olives",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2013/4/26/1/FNK_PURPLE-POTATOES-ROSEMARY-OLIVES_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382542433648.jpeg",
+      "review_count": "3 Reviews",
+      "rating": "3.3 of 5 stars",
+      "level": "Easy",
+      "duration": " 5 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "1 pound baby purple potatoes, scrubbed",
+        "Kosher salt and freshly ground black pepper",
+        "2 tablespoons extra-virgin olive oil",
+        "2 to 3 teaspoons fresh rosemary leaves, chopped",
+        "1/4 cup pitted kalamata olives, cut into thin slivers"
+      ],
+      "directions": [
+        "              Put the potatoes in a large saucepan with enough water to cover by 2 inches; season with salt. Bring to a boil over high heat, and then reduce the heat to maintain a steady simmer. Simmer until a paring knife just pierces through the potatoes, 20 to 25 minutes.             ",
+        "              Meanwhile, combine the oil and rosemary in a small skillet. Heat over medium heat until the rosemary sizzles; cook until fragrant, about 1 minute, and then remove from the heat and let stand.             ",
+        "              Drain the potatoes. When cool enough to handle, use a thin-bladed sharp knife to cut each in quarters. Very gently toss with the rosemary oil and olives. Season with salt and pepper. Serve warm.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Sauteed Asparagus with Olives and Basil",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2013/4/26/0/FNK_SAUTEED-ASPARAGUS-OLIVES-BASIL_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382542451151.jpeg",
+      "review_count": "8 Reviews",
+      "rating": "5.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "4 to 6 servings",
+      "ingredients": [
+        "Deselect All",
+        "2 tablespoons extra-virgin olive oil",
+        "2 to 3 cloves garlic, finely chopped",
+        "2 pounds medium asparagus, trimmed and cut into 2-inch pieces at an angle",
+        "Kosher salt and freshly ground black pepper ",
+        "3 tablespoons pitted kalamata olives, slivered",
+        "2 tablespoons chopped fresh basil"
+      ],
+      "directions": [
+        "              Heat the olive oil in a large skillet over medium heat. Add the garlic and cook, stirring, until fragrant, about 30 seconds. Add the asparagus, 1/4 teaspoon salt and some pepper and cook, stirring, until the asparagus is bright green and crisp-tender, 5 to 7 minutes. Add the olives, basil and 1/4 teaspoon salt and toss well. Serve.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Rainbow Bell Pepper Couscous",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2013/4/26/1/FNK_RAINBOW-BELLPEPPER-COUSCOUS_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382542454324.jpeg",
+      "review_count": "2 Reviews",
+      "rating": "3.5 of 5 stars",
+      "level": "Easy",
+      "duration": " 15 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "1 tablespoon plus 1 teaspoon extra-virgin olive oil",
+        "1 large clove garlic, minced",
+        "1 large shallot or 1/2 small red onion, minced",
+        "3 medium red, yellow, green or orange bell peppers or a mix, finely diced",
+        "2 teaspoons finely chopped fresh oregano ",
+        "Kosher salt and freshly ground black pepper",
+        "2/3 cup whole wheat couscous",
+        "Lemon wedges, for serving"
+      ],
+      "directions": [
+        "              Heat the olive oil in a medium saucepan over medium heat; add the garlic and shallots and cook, stirring frequently, until fragrant, about 2 minutes. Add 2/3 cup water, the bell peppers, oregano, 1 teaspoon salt and pepper to taste, bring to a boil over high heat and cook until the peppers just begin to soften, 2 to 3 minutes. Stir in the couscous, immediately cover and remove from the heat. Let stand, covered, until the liquid is absorbed and the couscous is tender, about 7 minutes.             ",
+        "              Transfer to a platter or large bowl and serve with lemon wedges for squeezing.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Lemon-Pepper Mushrooms",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2013/2/14/0/FNK_Lemon-Pepper-Mushrooms_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382542440641.jpeg",
+      "review_count": "1 Review",
+      "rating": "5.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "1 tablespoon unsalted butter or 1/2 tablespoon each unsalted butter and extra-virgin olive oil",
+        "20 ounces sliced white button mushrooms",
+        "1 tablespoon finely grated lemon zest",
+        "Kosher salt and freshly ground black pepper",
+        "1 1/2 tablespoons minced or snipped fresh chives"
+      ],
+      "directions": [
+        "              Heat the butter in a large skillet over medium-high heat. Add the mushrooms in an even layer and sprinkle with the lemon zest. Cook, undisturbed, until browned, about 2 minutes. Toss with 1/4 teaspoon salt and 3/4 teaspoon pepper and continue to cook until the mushrooms are tender but not mushy, 4 to 5 minutes. Add additional salt and pepper to taste. Transfer to a serving dish and sprinkle with the chives. Serve warm.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Tuscan White Beans",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2012/12/20/1/FNM_010113-Tuscan-White-Beans-REcipe_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382542291759.jpeg",
+      "review_count": "10 Reviews",
+      "rating": "4.7 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "4 servings",
+      "ingredients": [],
+      "directions": [
+        "              Cook 2 smashed garlic cloves and 1/4 teaspoon red pepper flakes in olive oil in a large skillet over medium-high heat, 1 minute. Add 1 chopped plum tomato and 1 sprig rosemary and cook 2 minutes. Add 2 cans drained, rinsed cannellini beans and cook, partially smashing the beans with a spoon, 5 minutes. Remove the rosemary. Stir in 1/2 cup water and some chopped parsley; season with salt. Sprinkle with parmesan and broil until golden. Drizzle with olive oil.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Israeli Couscous Tabouli",
+      "author_name": "Melissa d'Arabian",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/melissa-darabian/FN-TalentAvatar-Melissa_dArabian-800x800.jpg.rend.hgtvcom.126.126.suffix/1457731230753.jpeg",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2011/7/22/0/MN0506H_israeli-couscous-tabouli_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382540013014.jpeg",
+      "review_count": "24 Reviews",
+      "rating": "4.6 of 5 stars",
+      "level": "Easy",
+      "duration": " 20 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "1 cup Israeli couscous",
+        "Kosher salt and freshly ground black pepper",
+        "1 lemon, zested and juiced",
+        "3 tablespoons olive oil",
+        "1 cup finely chopped parsley",
+        "1/2 cup finely chopped cilantro",
+        "2 tablespoons chopped fresh mint",
+        "2 ripe tomatoes, seeded and diced",
+        "3 scallions, chopped"
+      ],
+      "directions": [
+        "              Bring a medium-size saucepan of salted water to a boil over medium heat. Add the couscous and cook until al dente, 7 to 8 minutes. Drain the couscous and set aside to cool. Meanwhile, in a small bowl, whisk together the lemon juice and zest with the olive oil to make a vinaigrette. Season with salt and pepper to taste.            ",
+        "              In a large serving bowl, mix together the couscous, parsley, cilantro, mint, tomatoes, and scallions. Toss with the vinaigrette and season to taste. Allow it to sit for at least a half hour so the flavors can marry.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Spicy Green Tomato-Avocado Salad",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2013/6/10/0/FNM_070113-Spicy-Green-Tomato-Avocado-Salad-Recipe_s4x3.jpg.rend.hgtvcom.826.620.suffix/1389377543164.jpeg",
+      "review_count": "2 Reviews",
+      "rating": "5.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 35 min",
+      "yield": "8 servings",
+      "ingredients": [
+        "Deselect All",
+        "1 1/2 pounds green (unripe) tomatoes, cut into wedges",
+        "Kosher salt",
+        "Juice of 1 lime",
+        "1 teaspoon dijon mustard",
+        "1 tablespoon honey",
+        "1 small jalapeno pepper, seeded and minced",
+        "1 tablespoon fresh thyme, minced",
+        "Freshly ground pepper",
+        "1/4 cup extra-virgin olive oil",
+        "2 avocados",
+        "2 cups mache or Bibb lettuce leaves"
+      ],
+      "directions": [
+        "              Put the tomatoes in a bowl and sprinkle with 1 teaspoon salt; let sit 30 minutes.            ",
+        "              Meanwhile, whisk the lime juice, mustard, honey, jalapeno, thyme, 1/2 teaspoon salt, and pepper to taste in a large bowl. Gradually pour in the olive oil, whisking constantly until emulsified.            ",
+        "              When ready to serve, halve the avocados, remove the pits, peel and thinly slice. Add to the bowl with the dressing, then add the lettuce and tomatoes. Gently toss to coat. Season with salt and pepper.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Sweet Potatoes with Maple-Horseradish Butter",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2014/4/17/1/FNK_Sweet-Potatoes-Maple_s4x3.jpg.rend.hgtvcom.826.620.suffix/1397907920171.jpeg",
+      "review_count": "7 Reviews",
+      "rating": "3.9 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "2 pounds sweet potatoes (about 3 medium potatoes), peeled and cut into 1-inch chunks",
+        "1/4 cup pure maple syrup",
+        "1/4 cup low-sodium chicken broth",
+        "2 tablespoons unsalted butter",
+        "Kosher salt and freshly ground black pepper",
+        "1/2 cup loosely packed flat-leaf parsley leaves, chopped",
+        "1 tablespoon prepared horseradish"
+      ],
+      "directions": [
+        "              Preheat the oven to 400 degrees F. Put the sweet potato chunks in a 3-quart casserole dish in an even layer.            ",
+        "              Bring the maple syrup to a gentle boil in a small saucepan over medium-high heat. Boil for 1 minute, then add the broth. Let come to a boil again, then cook for 1 minute more. Turn off the heat and whisk in the butter. Pour the mixture over the sweet potatoes and sprinkle with 1/2 teaspoon salt and 1/4 teaspoon pepper.            ",
+        "              Cover the dish with foil and roast until the potatoes are tender, about 30 minutes. Remove the foil and continue to roast until the sauce is reduced to a glaze, 10 to 15 minutes. Add the parsley, horseradish and 1/4 teaspoon salt and stir to coat the potatoes. Serve hot.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Baby Spinach with Almonds and Golden Raisins",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2014/4/17/1/FNK_Spinach-Almonds-Paprika-Golden-Raisins_s4x3.jpg.rend.hgtvcom.826.620.suffix/1397907920058.jpeg",
+      "review_count": "2 Reviews",
+      "rating": "4.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "3 tablespoons sliced almonds",
+        "2 slices bacon, cut into 1/2-inch pieces",
+        "1 small shallot, chopped",
+        "2 tablespoons red wine vinegar",
+        "1 1/2 pounds baby spinach leaves",
+        "1/4 teaspoon Spanish smoked sweet paprika",
+        "1/4 teaspoon red pepper flakes",
+        "Kosher salt and freshly ground black pepper",
+        "1/4 cup golden raisins",
+        "1 tablespoon unsalted butter"
+      ],
+      "directions": [
+        "              Preheat the oven to 350 degrees F. Spread the almonds out on a rimmed baking sheet and toast until light brown and fragrant, about 8 minutes. Set aside.            ",
+        "              Cook the bacon in a large skillet over medium heat until brown and crispy, about 5 minutes. Remove the skillet from the heat and transfer the cooked bacon with a slotted spoon to a small bowl, leaving the drippings in the skillet.            ",
+        "              Return the skillet to medium heat, add the shallots and 1 tablespoon water and cook, stirring, until soft, about 3 minutes. Add the vinegar and cook until it is reduced and the shallots are glazed, about 3 minutes more. Add the spinach in batches, stirring to wilt before adding more. When all the spinach has been added, raise the heat to high, add the paprika, red pepper flakes, 1/4 teaspoon salt and a few grinds of pepper and cook, covered, for 2 minutes. Remove the lid, stir in the raisins, toasted almonds, reserved bacon and butter and serve.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Creamy Chili-Lime Corn",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2014/4/17/1/FNK_Healthy-Creamy-Chili-Lime-Corn_s4x3.jpg.rend.hgtvcom.826.620.suffix/1397788807281.jpeg",
+      "review_count": "16 Reviews",
+      "rating": "4.8 of 5 stars",
+      "level": "Easy",
+      "duration": " 15 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "1/2 cup loosely packed fresh cilantro leaves, chopped, plus more for garnish",
+        "1/3 cup 2-percent Greek yogurt",
+        "Zest and juice of 1/2 lime",
+        "Kosher salt",
+        "1 pound frozen corn, thawed (about 3 1/2 cups)",
+        "1 teaspoon chili powder, plus more for garnish",
+        "1 small clove garlic, finely grated",
+        "2 tablespoons unsalted butter",
+        "4 tablespoons grated Parmesan"
+      ],
+      "directions": [
+        "              Whisk together the cilantro, yogurt, lime zest and juice, 1 teaspoon water and 1/2 teaspoon salt. Set aside.            ",
+        "              Pat the corn dry with paper towels and toss with the chili powder and garlic in a medium bowl. Melt the butter in a large nonstick skillet over medium-high heat. Once the foam subsides, add the corn and cook undisturbed until it starts to brown slightly in some spots, about 2 minutes. Continue to cook, stirring, until warmed through, about 3 minutes.            ",
+        "              Remove the skillet from the heat and stir in the lime-yogurt mixture, 3 tablespoons of the Parmesan and 1/2 teaspoon salt. Transfer to a serving dish and top with cilantro, the remaining 1 tablespoon Parmesan and a sprinkle of chili powder.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Asiago Roasted Broccoli",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2014/4/17/1/FNK_Asiago-Roasted-Broccoli_s4x3.jpg.rend.hgtvcom.826.620.suffix/1397786993801.jpeg",
+      "review_count": "5 Reviews",
+      "rating": "4.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "8 cups broccoli florets (2 to 3 large heads)",
+        "5 tablespoons extra-virgin olive oil",
+        "4 large cloves garlic, roughly chopped",
+        "2 large shallots, roughly chopped",
+        "Kosher salt",
+        "1/8 to 1/4 teaspoon crushed red pepper flakes",
+        "1/4 cup finely shredded aged Asiago cheese",
+        "Zest of 1 lemon (about 2 teaspoons)"
+      ],
+      "directions": [
+        "              Set a rimmed baking sheet on an oven rack and preheat to 425 degrees F.            ",
+        "              Add the broccoli, oil, garlic, shallots, 3/4 teaspoon salt and red pepper flakes to a large bowl and toss to coat. Transfer to the preheated baking sheet and spread out in a single layer. Roast until the broccoli florets are browned on the ends, the stalks are crisp-tender and the shallots are caramelized, about 20 minutes, tossing about halfway through. Immediately sprinkle with the Asiago and lemon zest. Season with some salt if needed. Transfer to a serving platter.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Cheesy Mushroom Stacks",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2014/4/17/1/FNK_Cheesy-Mushroom-Stacks_s4x3.jpg.rend.hgtvcom.826.620.suffix/1397788807335.jpeg",
+      "review_count": "1 Review",
+      "rating": "5.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "1 tablespoon plus 1 teaspoon extra-virgin olive oil",
+        "1 large clove garlic, finely grated",
+        "4 large portobello mushrooms, stemmed",
+        "2 tablespoons whole-wheat panko breadcrumbs",
+        "1 teaspoon finely chopped fresh oregano",
+        "Kosher salt and freshly ground black pepper",
+        "1 medium tomato, cut into 4 slices about 1/2 inch thick",
+        "4 ounces fresh salted mozzarella, cut into 4 slices"
+      ],
+      "directions": [
+        "              Position an oven rack in the top position, 3 inches below the broiler. Preheat the broiler. Whisk together 1 tablespoon of the oil and the garlic in a small bowl. Brush the rounded side of the mushroom caps with the garlic oil and arrange on a rimmed baking sheet, gill-side down.            ",
+        "              Stir together the breadcrumbs, oregano and remaining teaspoon oil in a second small bowl; set aside.            ",
+        "              Broil the mushrooms until browned, about 2 minutes. Turn each cap over, sprinkle with 1/2 teaspoon salt and 1/4 teaspoon pepper and broil until just softened, about 1 minute. Top each with a tomato slice, sprinkle with 1/8 teaspoon salt and broil until the tomatoes are softened and just cooked through, about 2 minutes. Top with the mozzarella, sprinkle with the breadcrumb mixture and broil until the breadcrumbs are browned, the mozzarella is melted and the mushrooms are fully cooked, about 45 seconds. Transfer to a platter and serve warm.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Spiced Citrus Baby Kale",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2014/4/17/1/FNK_Spiced-Citrus-Baby-Kale_4x3.jpg.rend.hgtvcom.826.620.suffix/1397907920216.jpeg",
+      "review_count": "1 Review",
+      "rating": "0.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 5 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "1 tablespoon unsalted butter",
+        "1 tablespoon extra-virgin olive oil",
+        "1 large shallot, minced",
+        "Juice of 1 orange plus 1 teaspoon of zest (about 1/3 cup juice)",
+        "Juice of 1/2 medium lemon (about 1 tablespoon)",
+        "Two 5-ounce packages fresh baby kale",
+        "Kosher salt and freshly ground black pepper",
+        "1/4 teaspoon ground coriander",
+        "1/4 teaspoon crushed red pepper flakes"
+      ],
+      "directions": [
+        "              Melt the butter with the oil in a large deep skillet or Dutch oven over medium heat. Add the shallots and cook, stirring frequently, until softened, about 3 minutes. Add the orange juice and lemon juice and cook until reduced by half, about 3 minutes. Add the kale in batches, tossing with tongs until it begins to wilt, then adding more; continue until all the kale is wilted, 4 to 6 minutes. Add the orange zest, 3/4 teaspoon salt, a few grinds of black pepper, coriander and red pepper flakes and toss to combine. Transfer the kale with tongs to a serving bowl or platter and serve warm.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Southwestern Black Beans",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2014/4/17/1/FNK_Southwestern-Black-Beans_s4x3.jpg.rend.hgtvcom.826.620.suffix/1397907920025.jpeg",
+      "review_count": "0 Reviews",
+      "rating": "0.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "2 servings",
+      "ingredients": [
+        "Deselect All",
+        "2 teaspoons peanut oil",
+        "1 small jalapeno pepper with some seeds, minced",
+        "1 large clove garlic, minced",
+        "One 15-ounce can black beans, rinsed and strained",
+        "1/2 teaspoon finely chopped fresh oregano",
+        "Kosher salt",
+        "2 teaspoons to 1 tablespoon fresh lime juice",
+        "2 tablespoons roughly chopped fresh cilantro",
+        "Zest of 1/2 lime, optional"
+      ],
+      "directions": [
+        "              Heat the oil in a medium saucepan over medium-high heat. Add the jalapeno and garlic and cook, stirring, until fragrant, about 30 seconds. Add the beans, 1/3 cup water, oregano and 1/8 teaspoon salt and cook, stirring, until most of the liquid is evaporated, about 3 minutes. Remove from the heat, stir in the lime juice and adjust seasoning. Transfer to a serving bowl, sprinkle with the cilantro and lime zest if using and serve.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Roasted Moroccan-Style Vegetables",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2014/4/17/1/FNK_Roasted-Moroccan-Style-Vegetables_s4x3.jpg.rend.hgtvcom.826.620.suffix/1397907920107.jpeg",
+      "review_count": "3 Reviews",
+      "rating": "5.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 15 min",
+      "yield": "Serves 6",
+      "ingredients": [
+        "Deselect All",
+        "Nonstick cooking spray",
+        "5 tablespoons extra-virgin olive oil",
+        "Juice of 1/2 small lemon (about 1 tablespoon)",
+        "2 large cloves garlic, minced",
+        "Kosher salt",
+        "1 teaspoon ground coriander",
+        "1/2 teaspoon ground cinnamon",
+        "1/4 teaspoon ground cumin",
+        "1/4 teaspoon ground ginger",
+        "1 large yellow onion, diced",
+        "1 medium eggplant (about 1 pound), unpeeled, cut into 1/2-inch cubes",
+        "1 medium sweet potato (about 12 ounces), unpeeled, scrubbed and cut into 1/2-inch cubes",
+        "1 cup grape tomatoes, halved",
+        "8 dried apricots, thinly sliced, or 2 packed tablespoons golden raisins",
+        "1/2 cup loosely packed fresh cilantro leaves, chopped"
+      ],
+      "directions": [
+        "              Preheat the oven to 400 degrees F. Spray two rimmed baking sheets with nonstick cooking spray.            ",
+        "              Whisk together 3 tablespoons of the oil, lemon juice, garlic, 2 teaspoons salt, coriander, cinnamon, cumin and ginger in a large bowl. Add the onions, eggplant, sweet potatoes and tomatoes and toss well to fully coat the vegetables. Divide among the prepared baking sheets and arrange in a single layer. Roast until the sweet potatoes and eggplant are lightly browned and fully softened, 50 to 55 minutes, rotating trays and switching from top to bottom halfway through.            ",
+        "              Transfer the vegetables to a large bowl. Toss with the apricots, cilantro and remaining 2 tablespoons of oil. Season to taste with salt.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Shaved Vegetable Tart",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2017/12/18/0/FNK_Shaved-Vegetable-Tart-h1_s4x3.jpg.rend.hgtvcom.826.620.suffix/1513598861562.jpeg",
+      "review_count": "0 Reviews",
+      "rating": "0.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 30 min",
+      "yield": "8 servings",
+      "ingredients": [
+        "Deselect All",
+        "1 pound store-bought pizza dough, at room temperature",
+        "1 small English cucumber",
+        "1 small watermelon radish or 3 large radishes",
+        "3 teaspoons olive oil",
+        "Kosher salt",
+        "One 8-ounce package cream cheese, at room temperature",
+        "1 small clove garlic, minced",
+        "1/2 cup fresh flat-leaf parsley, chives or a combination, chopped",
+        "1/4 cup plain nonfat Greek yogurt",
+        "1 teaspoon poppy seeds"
+      ],
+      "directions": [
+        "              Preheat the oven to 425 degrees F.            ",
+        "              Roll out the pizza dough to a 10-by-15-inch rectangle on a piece of parchment. Transfer the parchment to a turned-over baking sheet and bake until crisp and golden brown, 10 to 12 minutes.            ",
+        "              Meanwhile, use a mandoline to slice the cucumber and radish paper thin. Toss them in a small bowl with 1 teaspoon oil and 1/2 teaspoon salt. Mix together the cream cheese, garlic, herbs and yogurt in a medium bowl.            ",
+        "              Transfer the crust to a serving platter or cutting board and spread with the cheese mixture, leaving a 1/4-inch border all around. Arrange the vegetables in a slightly-overlapping single layer. Drizzle with the remaining 2 teaspoons oil and sprinkle with the poppy seeds. Slice into squares and serve at room temperature.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Whole-Grain Biscuits",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2013/4/26/1/FNK_WHOLE-GRAIN-BISCUITS_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382542477406.jpeg",
+      "review_count": "1 Review",
+      "rating": "0.0 of 5 stars",
+      "level": "Intermediate",
+      "duration": " 10 min",
+      "yield": "12 servings",
+      "ingredients": [
+        "Deselect All",
+        "1 cup all-purpose flour, plus more for dusting",
+        "1 cup white whole wheat flour",
+        "4 teaspoons baking powder",
+        "1 teaspoon sugar",
+        "Kosher salt and freshly ground black pepper",
+        "1/2 cup unsalted butter",
+        "2/3 cup 1-percent milk"
+      ],
+      "directions": [
+        "              Preheat the oven to 425 degrees F. Line a baking sheet with parchment paper.            ",
+        "              Whisk together both flours, the baking powder, sugar, 1/2 teaspoon salt and 1/4 teaspoon pepper in a large bowl. Work in the butter using your fingers or a pastry cutter until the mixture resembles small peas.            ",
+        "              Add the milk and stir until just incorporated. Gently knead into a ball, and then pat into a 1-inch-thick rectangle. Cut into twenty-four 1 1/2-inch squares and place on the prepared baking sheet, leaving about 1 inch between each biscuit. Sprinkle an additional 1/4 teaspoon salt and pepper on top.            ",
+        "              Bake until golden brown, about 20 minutes. Cool on the baking sheet and serve warm.            "
+      ],
+      "chef_note": "Alternatively, top with 1/2 teaspoon dried thyme and 1/4 teaspoon salt (omit the pepper on top) and bake as directed.\n\nOr, for a seeded version, top with 1/2 teaspoon of a mix of fennel seeds, poppy seeds and sesame seeds and 1/4 teaspoon salt (omit the pepper on top) and bake."
+    },
+    {
+      "title": "Baked Sweet Potato \"Fries\" with La Boite Spice Mix",
+      "author_name": "Ina Garten",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/ina-garten/FN-TalentAvatar-Ina-Garten-colorblock.jpg.rend.hgtvcom.126.126.suffix/1531174352136.jpeg",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2013/7/16/0/BX0901H_baked-sweet-potato-fries-with-la-boite-spice-mix-recipe_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382544500833.jpeg",
+      "review_count": "6 Reviews",
+      "rating": "5.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 35 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "2 medium sweet potatoes, peeled ",
+        "2 tablespoons good olive oil ",
+        "1 tablespoon La Boite Spice Mix (see separate recipe)",
+        "1 tablespoon light brown sugar ",
+        "1/2 teaspoon kosher salt, plus extra for sprinkling ",
+        "1/2 teaspoon freshly ground black pepper ",
+        "Recipe courtesy La Boite",
+        "1 1/2 teaspoons turmeric ",
+        "2 teaspoons basil ",
+        "1 teaspoon Aleppo chili ",
+        "2 teaspoons mustard seed ",
+        "2 teaspoons black pepper ",
+        "2 teaspoons coriander seeds ",
+        "3 teaspoons cumin seeds ",
+        "1 teaspoon caraway seeds "
+      ],
+      "directions": [
+        "              Preheat the oven to 450 degrees.            ",
+        "              Halve the sweet potatoes lengthwise and cut each half into 3 long spears. Place them on a sheet pan and toss with the olive oil. Spread the potatoes in one layer. Combine the spice mix, brown sugar, salt, and pepper and sprinkle on the potatoes. Bake for 15 minutes and then turn with a spatula. Bake for another 5 to 10 minutes, until lightly browned. Sprinkle lightly with salt and serve hot.            ",
+        "              Into a bowl add the turmeric, basil, chili, and mustard seed. Grind together in pestle and mortar or a clean coffee grinder the black pepper and coriander seed and add to the other spices.            ",
+        "              Grind together the cumin and caraway seed as above and add to the spices and mix everything together.            ",
+        "                           "
+      ],
+      "chef_note": "Ina substituted 1 tablespoon of a custom-made spice mix from La Boîte á Epice for the light brown sugar in this recipe."
+    },
+    {
+      "title": "Corn-and-Oat Risotto",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2014/7/7/1/FN_Corn-and-Oat-Risotto_s4x3.jpg.rend.hgtvcom.826.620.suffix/1404906998158.jpeg",
+      "review_count": "1 Review",
+      "rating": "4.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "6 servings",
+      "ingredients": [
+        "Deselect All",
+        "2 ounces grated Parmesan (about 1/3 cup)",
+        "1/4 cup fresh dill fronds",
+        "Freshly ground black pepper",
+        "2 ears corn, shucked",
+        "Kosher salt",
+        "1 tablespoon olive oil",
+        "1 tablespoon unsalted butter",
+        "1 small onion, chopped",
+        "1 1/2 cups steel-cut oats",
+        "1 cup dry white wine"
+      ],
+      "directions": [
+        "              Remove the kernels from the corn cobs and set aside. Hold the cobs over a large saucepan and use the back of a knife to scrape down the cobs to \"milk\" them of any corn liquid. Drop the scraped cobs into the saucepan and add 8 cups of water and 1/2 teaspoon salt. Bring to a boil, lower heat and simmer until the liquid is reduced to 6 cups, about 30 minutes. Strain and keep warm.            ",
+        "              Heat the oil and butter in a large saucepan over medium heat. Add the onion and cook, stirring frequently with a wooden spoon, until the onion is translucent and soft, about 5 minutes. Add the corn kernels and 1/2 teaspoon of salt and cook, stirring frequently, until the corn just starts to soften, about 3 minutes. Add the oats and stir until coated. Add the wine and simmer, stirring constantly, until the wine is absorbed, about 1 minute. Add 3 cups of the warm corn broth to the oats. Simmer, stirring constantly, until most of the liquid is absorbed, 8 to 10 minutes. Add 2 more cups of broth and simmer, stirring constantly, until the oats are tender but slightly toothsome, about 10 to 12 minutes more. Remove from the heat, stir in the Parmesan and season to taste with salt and pepper. Adjust the consistency of the risotto by adding more of the broth as necessary. Pour into a serving dish, sprinkle with the dill and a few more grinds of pepper and serve immediately.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Whole-Grain Mushroom and Kimchi Brown Rice",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2013/12/27/0/FNK_mushroom-and-kimchi-brown-rice_s4x3.jpg.rend.hgtvcom.826.620.suffix/1389218999469.jpeg",
+      "review_count": "0 Reviews",
+      "rating": "0.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "1/2 cup kimchi (not strained), chopped",
+        "1 tablespoon low-sodium soy sauce",
+        "1 teaspoon toasted sesame oil",
+        "1/4 teaspoon sugar",
+        "1 tablespoon vegetable oil",
+        "1/2 pound shiitake mushrooms, stems discarded and caps quartered",
+        "Kosher salt",
+        "1 tablespoon grated fresh ginger",
+        "1 clove garlic, minced",
+        "1/4 cup low-sodium chicken broth",
+        "3 cups cooked brown rice, chilled, or 3 cups frozen brown rice",
+        "4 scallions, chopped"
+      ],
+      "directions": [
+        "              Mix the kimchi, soy sauce, sesame oil and sugar in a small bowl or measuring cup until the sugar is dissolved; set aside.            ",
+        "              Heat the vegetable oil in a medium nonstick skillet over medium-high heat until shimmering. Add the mushrooms and 1/8 teaspoon salt and cook, stirring, until the mushrooms release water, about 2 minutes. Lower the heat to medium-low and continue to stir until the mushrooms are lightly browned and soft, about 5 minutes. Add the ginger and garlic and cook, stirring, until fragrant, 1 minute. Add the chicken broth, scraping up any browned bits in the skillet, and simmer until slightly reduced, about 1 minute. Stir in the rice, reduce the heat to low, cover and cook until the liquid is absorbed and the rice is heated through, about 3 minutes. Stir in the kimchi mixture and cook until everything is heated through, about 2 minutes. Transfer to a serving dish and top with the scallions. Serve hot.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Roasted Beet Salad",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2008/12/23/0/FNmag_Roasted-Beet-Salad-_s4x3.jpg.rend.hgtvcom.826.620.suffix/1388433820686.jpeg",
+      "review_count": "12 Reviews",
+      "rating": "4.3 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "4 servings",
+      "ingredients": [],
+      "directions": [
+        "              Toss 4 beets in a baking dish with olive oil, salt and pepper. Cover and roast at 425 degrees F until tender, about 40 minutes; let cool, then rub off the skins. Cut into wedges; toss with any juices from the baking dish, capers, chopped pickles, a dash each of Worcestershire and hot sauce, and chopped parsley.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Roasted Carrots with Almonds and Olives",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2011/8/16/0/entwine_baby-carrots-marcona-almonds_s3x4.jpg.rend.hgtvcom.826.620.suffix/1371600214197.jpeg",
+      "review_count": "0 Reviews",
+      "rating": "0.0 of 5 stars",
+      "level": " 40 min",
+      "duration": " 20 min",
+      "yield": "",
+      "ingredients": [
+        "Deselect All",
+        "4 bunches baby carrots, trimmed, scrubbed or peeled (about 1 1/2 pounds)",
+        "3 small shallots, bulbs peeled and halves separated",
+        "2 large strips orange peel ",
+        "1/4 cup extra-virgin olive oil",
+        "Sea salt and freshly ground pepper",
+        "Sea salt and freshly ground pepper ",
+        "1/2 cup Cerignola olives",
+        "1/3 cup salted Marcona almonds",
+        "Coarse sea salt, such as Maldon"
+      ],
+      "directions": [
+        "              1. Preheat the oven to 400 degrees F. Toss the carrots, shallots, and orange peel in the olive oil. Season with salt and pepper and spread out in a single layer on a baking sheet. Roast until the carrots and shallots are fork tender, 15 to 20 minutes.             ",
+        "              2. Smash the olives using the bottom of a heavy skillet and remove the pits.             ",
+        "              3. Transfer the roasted carrots to a platter and top with the olives and almonds. Garnish with coarse sea salt. Serve with chardonnay or merlot.             ",
+        "              Per serving: Calories 309            ",
+        "              Total Fat 23.5 g            ",
+        "              Saturated Fat: 2.5 g            ",
+        "              Protein: 4 grams            ",
+        "              Total Carbohydrates: 22 grams            ",
+        "              Sugar: 11 grams            ",
+        "              Fiber: 5 grams            ",
+        "              Cholesterol 0 mg            ",
+        "              Sodium 1165 mg            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Coconut-Curry Wheat Berries and Rice",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2014/7/7/1/FN_Coconut-Curry-Wheat-Berries-and-Rice_s4x3.jpg.rend.hgtvcom.826.620.suffix/1404906998128.jpeg",
+      "review_count": "0 Reviews",
+      "rating": "0.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 15 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "1/2 cup wheat berries",
+        "1 tablespoon vegetable oil",
+        "1 small onion, finely chopped",
+        "1 teaspoon mild curry powder",
+        "Pinch cayenne pepper",
+        "1/2 cup basmati rice, rinsed",
+        "Kosher salt",
+        "1/2 cup lite (reduced-fat) coconut milk",
+        "2 tablespoons raisins or currants",
+        "1/2 cup loosely packed fresh cilantro leaves",
+        "Juice of 1/2 lemon",
+        "2 tablespoons salted and roasted cashews, chopped"
+      ],
+      "directions": [
+        "              Soak the wheat berries overnight in enough water to cover by 1 inch. Drain. Combine the wheat berries with 1 3/4 cups water in a small saucepan; bring to a boil, adjust heat to medium-low, cover, and simmer until the wheat berries are tender but still toothsome, about 50 minutes. Let sit, covered, for 10 minutes. Drain off any excess water. (Wheat berries can be cooked and refrigerated up to 3 days in advance).            ",
+        "              Heat the oil in a medium saucepan over medium-high heat. Add the onion and cook, stirring frequently, until deep golden brown, about 8 minutes. Add the curry powder and cayenne and cook, stirring, until fragrant, about 30 seconds. Add the rice and 1/2 teaspoon salt and stir to coat. Pour in 1 cup water and the coconut milk; bring to a boil, lower heat to medium low, cover and simmer until most of the liquid is absorbed and the rice is tender, about 15 minutes. Uncover and add the cooked wheat berries and raisins (no need to stir). Cover again and let sit off the heat for 10 minutes.            ",
+        "              Stir in the cilantro, lemon juice and cashews. Serve warm.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Cajun Spelt",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2014/7/7/1/FN_Cajun-Spelt_s4x3.jpg.rend.hgtvcom.826.620.suffix/1404906998059.jpeg",
+      "review_count": "0 Reviews",
+      "rating": "0.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 15 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "3/4 cup whole spelt",
+        "2 tablespoons olive oil",
+        "1 small green bell pepper, cut into thin 1-inch strips",
+        "4 scallions, cut into 1/2-inch-long pieces, white and green parts separated",
+        "2 stalks celery, thinly sliced",
+        "2 ounces Canadian bacon, cut into 1/2-inch pieces",
+        "2 cloves garlic, thinly sliced",
+        "1/2 teaspoon Cajun seasoning",
+        "1 cup cherry tomatoes, halved",
+        "Kosher salt"
+      ],
+      "directions": [
+        "              Combine the spelt with 1 1/2 cups of water in a medium saucepan. Bring to a boil, reduce heat to medium low, cover and simmer until most of the water is absorbed and the grains are tender but still chewy, about 30 minutes. Remove from the heat and let sit, covered, for 10 minutes. Let cool completely (spelt can be made up to a day ahead).            ",
+        "              Heat the oil in a large nonstick skillet over medium-high heat. Add the bell pepper, scallion whites, celery and Canadian bacon and cook, stirring frequently, until the vegetables are crisp-tender and the ham is lightly browned, about 4 minutes. Add the garlic and Cajun seasoning and cook, stirring, for 1 minute. Add the spelt, tomatoes, scallion greens and 1/2 teaspoon salt cook, stirring, until the spelt and tomatoes are warmed through, about 2 minutes. Transfer to a serving dish and serve hot.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Creamed Spinach",
+      "author_name": "Ellie Krieger",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/ellie-krieger/FN-TalentAvatar-Ellie-Krieger-colorblock.jpg.rend.hgtvcom.126.126.suffix/1531174841286.jpeg",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2009/9/25/0/FNM-110109-All-Star-Sides-009-01_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382539103272.jpeg",
+      "review_count": "11 Reviews",
+      "rating": "3.2 of 5 stars",
+      "level": "Easy",
+      "duration": " 15 min",
+      "yield": "8 servings",
+      "ingredients": [
+        "Deselect All",
+        "2 10-ounce packages frozen chopped spinach, thawed",
+        "2 teaspoons extra-virgin olive oil",
+        "2 small shallots, finely chopped (about 1/2 cup)",
+        "4 teaspoons all-purpose flour",
+        "1 1/2 cups low-fat (1%) milk",
+        "1/2 cup low-sodium chicken broth",
+        "2 tablespoons evaporated milk",
+        "Pinch of ground nutmeg",
+        "Kosher salt and freshly ground pepper"
+      ],
+      "directions": [
+        "              Squeeze all of the water from the spinach. In a large saucepan, heat the oil over medium heat. Add the shallots and cook, stirring, until softened, about 2 minutes. Add the flour to the pan and cook, stirring, for 30 seconds. Add the low-fat milk and broth and cook, scraping up any bits from the bottom of the pan. Bring to a simmer and cook 2 minutes.            ",
+        "              Add the spinach and simmer until tender, about 5 minutes. Stir in the evaporated milk and nutmeg, and season with salt and pepper.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Kasha Salad with Hazelnuts and Feta",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2014/7/7/1/FN_Kasha-Salad-with-Hazelnuts-and-Feta_s4x3.jpg.rend.hgtvcom.826.620.suffix/1404906998307.jpeg",
+      "review_count": "0 Reviews",
+      "rating": "0.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "3/4 cup kasha",
+        "1 large egg white, lightly beaten",
+        "1/4 cup hazelnuts",
+        "3 tablespoons red wine vinegar",
+        "2 tablespoons extra-virgin olive oil",
+        "1 teaspoon honey",
+        "Kosher salt",
+        "1 medium carrot, finely grated",
+        "1/2 cup loosely packed fresh parsley leaves, chopped",
+        "3 tablespoons crumbled feta cheese"
+      ],
+      "directions": [
+        "              Preheat the oven to 350 degrees F.            ",
+        "              Mix the kasha and egg white together in a small bowl until the kasha is well coated. Heat a large nonstick skillet over medium-high heat. Add the kasha mixture and cook, stirring constantly, until the grains soften and separate and the egg adheres to the grains and dries out, about 3 minutes. Let cool completely.            ",
+        "              Spread the hazelnuts out on to a baking sheet and bake until golden and toasted, 8 to 10 minutes. Transfer to a cutting board and cool. Rub the skins off the nuts with a kitchen towel, then coarsely chop the nuts.            ",
+        "              Bring 2 cups of water to a boil in a medium saucepan. Add the kasha, bring back to a boil, reduce the heat to medium low, cover and simmer until most of the water is absorbed and the kasha is tender, about 15 minutes. Spread the grains out on a baking sheet to cool.            ",
+        "              Whisk together the vinegar, oil, honey and 3/4 teaspoon salt in a large bowl. Add the cooled kasha, hazelnuts, carrot, parsley and feta and gently stir to combine. Serve at room temperature.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Garlic Greens",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2013/11/6/0/fnm_030110-garlic-greens_s3x4.jpg.rend.hgtvcom.826.620.suffix/1385047644934.jpeg",
+      "review_count": "3 Reviews",
+      "rating": "5.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 5 min",
+      "yield": "",
+      "ingredients": [],
+      "directions": [
+        "              Cook 1 sliced onion, 8 whole garlic cloves and 1/2 teaspoon smoked paprika in a large pot with 3 tablespoons olive oil, about 2 minutes. Add 1 bunch each chopped mustard greens and kale, 2 cups water and a pinch each of sugar and salt. Simmer, covered, until tender, about 15 minutes. Add hot sauce to taste.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Barley Pilaf",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2014/7/7/1/FN_Barely-Pilaf_s4x3.jpg.rend.hgtvcom.826.620.suffix/1404906998003.jpeg",
+      "review_count": "0 Reviews",
+      "rating": "0.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 5 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "1 tablespoon unsalted butter",
+        "1 small onion, chopped",
+        "1 cup hulled barley",
+        "2 1/2 cups low-sodium chicken broth",
+        "Kosher salt",
+        "1/2 cup small pieces of broken spaghetti (about 2 ounces)",
+        "Freshly ground black pepper",
+        "2 tablespoons chopped fresh chives"
+      ],
+      "directions": [
+        "              Melt the butter in a medium saucepan over medium heat. Add the onion and cook, stirring occasionally, until soft and lightly golden brown, about 6 minutes. Add the barley and stir until the grains are just coated in butter. Add the broth and 1/2 teaspoon of salt and bring to a boil. Reduce the heat to medium low, cover and simmer 20 minutes. Uncover and quickly stir in the spaghetti; cover and continue to simmer until most of the liquid is absorbed and the barley and spaghetti are tender, stirring once more, about 15 minutes more. Remove from heat and let sit, covered, for 10 minutes.            ",
+        "              Season to taste with salt and pepper and sprinkle with chopped chives.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Barley with Bacon, Peas and Dill",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2013/12/27/0/FNK_barley-with-bacon-peas-and-dill_s4x3.jpg.rend.hgtvcom.826.620.suffix/1389218998479.jpeg",
+      "review_count": "3 Reviews",
+      "rating": "4.7 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "3/4 cup whole hulled barley, rinsed",
+        "Kosher salt",
+        "4 slices bacon, sliced crosswise into 1/2-inch strips",
+        "1 tablespoon unsalted butter",
+        "1 large yellow onion, quartered and thinly sliced",
+        "1 1/2 cups frozen peas, thawed (about 8 ounces)",
+        "1 tablespoon finely chopped fresh dill",
+        "2 teaspoons fresh lemon juice",
+        "Freshly ground black pepper"
+      ],
+      "directions": [
+        "              Bring the barley, 3 1/2 cups water and 1/2 teaspoon salt to a boil in a medium saucepan over high heat. Reduce heat to low, cover and simmer until the barley is chewy but tender, about 50 minutes.            ",
+        "              Meanwhile, add the bacon in a single layer to a large nonstick skillet over medium heat and cook, stirring occasionally, until golden brown and crisp, about 6 minutes. Remove the skillet from the heat and transfer the bacon with a slotted spoon to paper towels to drain; reserve the bacon drippings in the skillet.            ",
+        "              Return the skillet to medium heat and melt the butter in the bacon drippings. Add the onion and 1/4 teaspoon salt and cook, stirring occasionally, until deep golden brown, about 25 minutes. Add the peas and stir until heated through, about 1 minute.            ",
+        "              Drain any excess liquid from the barley. Stir the barley into the onion-pea mixture. Stir in the dill, lemon juice and 1/2 teaspoon each salt and pepper. Transfer to a serving bowl and sprinkle with the bacon.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Made-Over Blackened Cajun Skillet Fries",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2012/2/14/0/CC_BLACKENED-CAJUN-SKILLET-FRIES_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382541174246.jpeg",
+      "review_count": "1 Review",
+      "rating": "5.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "3 medium russet potatoes",
+        "1 tablespoon olive oil",
+        "1 teaspoon Cajun seasoning",
+        "3 tablespoons nonfat Greek yogurt",
+        "1 tablespoon Creole mustard",
+        "Kosher salt"
+      ],
+      "directions": [
+        "              Preheat the oven to 425 degrees F. Cut the potatoes into long wedges about 1-inch thick. Toss the potatoes with the olive oil and Cajun seasoning. Heat an ovenproof large nonstick skillet over medium-high heat and add the potatoes in a single layer. Cook, turning, until browned on all sides, about 15 minutes. Slowly add 1/4 cup water to the skillet and transfer the entire skillet to the oven.             ",
+        "              Continue to cook the potatoes, turning once, until the potatoes are tender and the outsides are crisped, about 20 more minutes. Meanwhile, mix the yogurt with the mustard and a pinch salt. Serve the potatoes warm with the mustard dipping sauce.             "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Khorasan Wheat Marinara",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2014/7/7/1/FN_Kamut-Marinara_s4x3.jpg.rend.hgtvcom.826.620.suffix/1404906998470.jpeg",
+      "review_count": "0 Reviews",
+      "rating": "0.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 5 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "1 cup khorasan wheat berries, such as Kamut, picked through for pebbles",
+        "1 tablespoon extra-virgin olive oil",
+        "2 cloves garlic, thinly sliced",
+        "Kosher salt",
+        "Small pinch crushed red pepper",
+        "1 tablespoon tomato paste",
+        "One 15-ounce can whole plum tomatoes, crushed by hand",
+        "Small handful fresh basil leaves, plus more for garnish",
+        "2 tablespoons grated Parmesan"
+      ],
+      "directions": [
+        "              Bring a medium saucepan filled two-thirds with water to a boil. Add the khorasan wheat and cook until the grains have plumped and are tender but still chewy, 55 minutes to 1 hour. Drain.            ",
+        "              Meanwhile, put the oil, garlic, 1/2 teaspoon salt and crushed red pepper in a medium skillet and set over medium heat. Once the oil starts to shimmer, stir until the garlic is lightly golden, about 30 seconds. Add the tomato paste and stir until the oil turns yellow, about 30 seconds. Add the crushed tomatoes and their juices, 1/2 cup of water and basil. Bring to a boil, lower the heat to medium low and simmer gently until the sauce thickens, 10 to 12 minutes.            ",
+        "              Stir in the khorasan wheat and transfer to a serving dish. Sprinkle with the Parmesan and basil and serve hot.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Soy Glazed Green Beans",
+      "author_name": "Guy Fieri",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/guy-fieri/FN-TalentAvatar-Guy-Fieri-colorblock.jpg.rend.hgtvcom.126.126.suffix/1531174403377.jpeg",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2010/10/26/1/GISP01_Green-Beans_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382539526099.jpeg",
+      "review_count": "42 Reviews",
+      "rating": "4.8 of 5 stars",
+      "level": "Easy",
+      "duration": " 5 min",
+      "yield": "8 to 12 servings",
+      "ingredients": [
+        "Deselect All",
+        "Kosher salt",
+        "2 pounds green beans, ends trimmed",
+        "2 tablespoons canola oil",
+        "2 tablespoons butter",
+        "4 cloves garlic, chopped",
+        "1/4 cup soy sauce",
+        "2 tablespoons toasted sesame seeds",
+        "Freshly ground black pepper"
+      ],
+      "directions": [
+        "              Bring a large pot of water to a boil and season generously with salt. Add the green beans and blanch until crisp-tender, 2 to 3 minutes. Immediately transfer to an ice bath to stop the cooking, and then remove to a baking sheet lined with paper towels or a cooling rack to drain.            ",
+        "              In a large saute pan over medium-high heat, add the canola oil and butter. When the butter is melted, add the garlic and stir until fragrant, 1 to 2 minutes. Add the green beans, soy sauce, sesame seeds, and black pepper and saute until the sauce reduces slightly and thoroughly coats the green beans, being careful not to overcook beans.            ",
+        "              Transfer to a serving dish and serve hot.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Mexican Green Quinoa",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2014/7/7/1/FN_Mexican-Green-Quinoa_s4x3.jpg.rend.hgtvcom.826.620.suffix/1404906998090.jpeg",
+      "review_count": "4 Reviews",
+      "rating": "4.3 of 5 stars",
+      "level": "Easy",
+      "duration": " 5 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "1 cup quinoa",
+        "2 cups baby spinach",
+        "1/2 cup loosely packed fresh cilantro leaves",
+        "Juice of 1 lime",
+        "1/2 small jalapeno, seeded",
+        "1 tablespoon extra-virgin olive oil",
+        "1 clove garlic",
+        "Kosher salt",
+        "2 tablespoons Parmesan or Cotija cheese"
+      ],
+      "directions": [
+        "              Bring a medium saucepan filled two-thirds full of water to a boil. Place the quinoa in a fine mesh strainer and rinse a few times. Add the quinoa to the saucepan, lower the heat and simmer until the grains are tender and the germ (which looks like a white tail) just shows inside each grain, about 12 minutes. Strain the quinoa and rinse under cold water. Drain again, then set aside to dry out well.            ",
+        "              Meanwhile, combine the spinach, cilantro, lime juice, jalapeno, oil and garlic in a food processor and pulse until finely chopped.            ",
+        "              Combine the quinoa, the spinach mixture, and 3/4 teaspoon salt in the same saucepan the quinoa cooked in and set over medium-low heat. Cook, stirring, until warmed through, about 3 minutes. Stir in 1 tablespoon of the cheese. Transfer to a serving dish and sprinkle with the remaining 1 tablespoon cheese. Serve warm or at room temperature.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Mango-Cucumber Rice Salad",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2011/6/7/2/FNM_070111-WE-Dinners-026_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382539767732.jpeg",
+      "review_count": "16 Reviews",
+      "rating": "4.7 of 5 stars",
+      "level": "Easy",
+      "duration": " 23 min",
+      "yield": "6-8 servings",
+      "ingredients": [
+        "Deselect All",
+        "Kosher salt",
+        "1 1/2 cups rice blend",
+        "1/4 cup quinoa, rinsed",
+        "Finely grated zest and juice of 1 lime",
+        "2 tablespoons peanut or vegetable oil",
+        "1 teaspoon sugar",
+        "Freshly ground pepper",
+        "1 cup chopped mango",
+        "1 cucumber, peeled, seeded and diced",
+        "1 red jalapeno, seeded and thinly sliced",
+        "2 scallions, thinly sliced",
+        "1/2 cup chopped fresh cilantro",
+        "1/3 cup chopped salted roasted peanuts"
+      ],
+      "directions": [
+        "              Bring a large saucepan of salted water to a boil over high heat. Add the rice and cook, stirring until tender, 25 to 35 minutes (depending on the rice blend).            ",
+        "              Meanwhile, bring a separate saucepan of salted water to a boil over medium-high heat. Add the quinoa and cook until tender, about 12 minutes.            ",
+        "              Drain the grains and rinse under cold water until cool; shake off the excess water.            ",
+        "              Whisk the lime juice and zest, the peanut oil, sugar, 1 teaspoon salt, and pepper to taste in a large bowl. Add the rice mixture, mango, cucumber, jalapeno, scallions, cilantro and peanuts and stir to combine. Season with salt.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Baked Green Bean Fries",
+      "author_name": "Trisha Yearwood",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/trisha-yearwood/FN-TalentAvatar-Trisha-Yearwood2-colorblock.jpg.rend.hgtvcom.126.126.suffix/1531174296971.jpeg",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2017/12/28/0/YW1104_Baked-Green-Bean-Fries_s4x3.jpg.rend.hgtvcom.826.620.suffix/1514495270045.jpeg",
+      "review_count": "16 Reviews",
+      "rating": "4.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 30 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "Cooking spray",
+        "1 1/2 cups panko breadcrumbs ",
+        "1/2 cup grated Parmesan ",
+        "1/2 teaspoon onion powder ",
+        "1/4 teaspoon cayenne ",
+        "Kosher salt ",
+        "2 large eggs ",
+        "1 tablespoon milk ",
+        "8 ounces green beans, trimmed ",
+        "1 cup all-purpose flour "
+      ],
+      "directions": [
+        "              Preheat the oven to 425 degrees F.            ",
+        "              Spray a large baking pan with cooking spray.            ",
+        "              Mix the panko, Parmesan, onion powder, cayenne and 1/2 teaspoon salt together in a wide, shallow bowl. Whisk the eggs and milk together in another shallow bowl.            ",
+        "              Toss the green beans in the flour. Working a few green beans at a time, shake off the excess flour and dip in the egg. Let the excess egg drip off and then toss in the panko, patting firmly so the crumbs adhere. Arrange the breaded green beans in a single layer in the prepared baking pan and spray thoroughly with cooking spray.            ",
+        "              Bake until golden brown and crisp-tender, about 10 minutes.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Cipollini Onions Braised in Red Wine",
+      "author_name": "Sunny Anderson",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/sunny-anderson/FN-TalentAvatar-Sunny-Anderson-colorblock.jpg.rend.hgtvcom.126.126.suffix/1531174628523.jpeg",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2009/5/7/1/RE0403-1_Cipollini-Onions_s4x3.jpg.rend.hgtvcom.826.620.suffix/1392912854242.jpeg",
+      "review_count": "9 Reviews",
+      "rating": "4.6 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "6 to 8 servings",
+      "ingredients": [
+        "Deselect All",
+        "2 tablespoons butter",
+        "2 pounds cipollini onions, peeled",
+        "Salt and freshly ground black pepper",
+        "1/2 cup red wine",
+        "1/4 cup balsamic vinegar"
+      ],
+      "directions": [
+        "              In a large straight-sided saute pan over medium-high heat, melt butter and add onions. Season, to taste, with salt and pepper. Saute until nicely browned then add the wine and vinegar. Bring to a boil, cover, reduce heat and simmer until onions are completely cooked through and tender, about 15 minutes. Remove lid, turn heat up and let the liquid reduce and thicken until it forms a glaze and coats the onions well.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Quinoa With Garlic, Pine Nuts and Raisins",
+      "author_name": "Ellie Krieger",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/ellie-krieger/FN-TalentAvatar-Ellie-Krieger-colorblock.jpg.rend.hgtvcom.126.126.suffix/1531174841286.jpeg",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2010/3/3/2/FNM_040110-Ask-Ellie-002_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382539268906.jpeg",
+      "review_count": "69 Reviews",
+      "rating": "4.8 of 5 stars",
+      "level": "Easy",
+      "duration": " 5 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "1 cup quinoa, rinsed well",
+        "1/4 cup pine nuts",
+        "2 tablespoons extra-virgin olive oil",
+        "2 cloves garlic, thinly sliced",
+        "1/3 cup chopped fresh parsley",
+        "1/4 cup raisins",
+        "1 tablespoon fresh lemon juice",
+        "Kosher salt and freshly ground pepper"
+      ],
+      "directions": [
+        "              Place the quinoa in a saucepan and cook over medium heat until toasted, about 2 minutes. Add 1 3/4 cups water (or use low-sodium chicken broth) and bring to a boil. Reduce the heat to medium-low and simmer, covered, until the liquid is absorbed, 10 to 15 minutes. Remove from the heat and let sit, covered, about 2 minutes.            ",
+        "              Meanwhile, toast the pine nuts in a skillet over medium-high heat, stirring, until golden, about 3 minutes; transfer to a plate. Add the olive oil and garlic to the skillet and cook over medium heat, stirring, until golden, about 2 minutes. Transfer the garlic to the plate, reserving the oil.            ",
+        "              Fluff the quinoa with a fork. Add the pine nuts, garlic, reserved oil, parsley, raisins and lemon juice. Season with salt and pepper and toss.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Triple-Herb Freekeh",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2013/12/27/0/FNK_triple-herb-freekeh_s4x3.jpg.rend.hgtvcom.826.620.suffix/1389218998796.jpeg",
+      "review_count": "1 Review",
+      "rating": "5.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "1 cup cracked freekeh",
+        "1/2 a small red onion, finely diced (about 1/2 cup)",
+        "2 tablespoons chopped fresh basil",
+        "2 tablespoons chopped fresh dill",
+        "2 tablespoons chopped fresh parsley",
+        "2 tablespoons extra-virgin olive oil",
+        "Juice of 1 medium lemon (about 2 tablespoons)",
+        "Kosher salt and freshly ground black pepper"
+      ],
+      "directions": [
+        "              Add 8 cups water and the freekeh to a medium saucepan and boil until tender, about 20 minutes. Strain.            ",
+        "              Meanwhile, soak the onions in ice water in a small bowl for 10 minutes. Strain well.            ",
+        "              Whisk together the onions, basil, dill, parsley, oil, 1 tablespoon of the lemon juice, 1 teaspoon salt and 1/4 teaspoon pepper in a large bowl. Add the cooked freekah and toss to coat. Season with salt and pepper if needed. Transfer to a serving bowl and add the remaining 1 tablespoon lemon juice. Serve warm or at room temperature. (Alternatively, serve chilled, adding an additional tablespoon of lemon juice just before serving.)            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Green Beans With Tomatoes",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2011/7/28/1/FNM-090111_WN-Dinners-032_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382539998043.jpeg",
+      "review_count": "2 Reviews",
+      "rating": "4.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 35 min",
+      "yield": "6 servings",
+      "ingredients": [],
+      "directions": [
+        "              Cook 1/2 chopped onion in a pot with 3 tablespoons olive oil, about 5 minutes. Add 1 1/4 pounds trimmed green beans, a 15-ounce can crushed tomatoes, 1 1/4 cups water, 1 teaspoon salt, 1/4 teaspoon pepper and a pinch of cinnamon. Partially cover and simmer, 35 minutes. Season with salt and pepper.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Whole-Wheat Cornbread",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2011/12/5/0/FNM_010112-WN-Dinners-039_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382541015112.jpeg",
+      "review_count": "8 Reviews",
+      "rating": "3.4 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "7 Slices",
+      "ingredients": [],
+      "directions": [
+        "              Preheat a 10-inch cast-iron skillet in a 425 degrees F oven. Whisk 3/4 cup each cornmeal and whole-wheat flour, 3/4 teaspoon baking soda and 1/2 teaspoon salt in a bowl. Separately, whisk 1 3/4 cups buttermilk, 2 eggs, 1 tablespoon melted butter and 2 tablespoons honey. Mix the dry ingredients into the wet ingredients. Coat the hot skillet with cooking spray and add the batter. Bake until golden, 18 to 20 minutes.            ",
+        "              Per Slice: Calories: 157; Total Fat: 4 grams; Saturated Fat: 2 grams; Protein: 6 grams; Total carbohydrates: 26 grams; Sugar: 7 grams; Fiber: 2.5 grams; Cholesterol: 66 milligrams; Sodium: 342 milligrams            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Oven \"Fries\"",
+      "author_name": "Ellie Krieger",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/ellie-krieger/FN-TalentAvatar-Ellie-Krieger-colorblock.jpg.rend.hgtvcom.126.126.suffix/1531174841286.jpeg",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2008/10/21/0/FNMOvenFries-credit_s3x4.jpg.rend.hgtvcom.826.620.suffix/1382538691067.jpeg",
+      "review_count": "59 Reviews",
+      "rating": "4.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "Serves 4",
+      "ingredients": [
+        "Deselect All",
+        "3 large baking potatoes, cut into 1/4-inch-thick matchsticks",
+        "2 tablespoons canola oil",
+        "Salt",
+        "Cooking spray"
+      ],
+      "directions": [
+        "              Preheat the oven to 450 degrees. In a large bowl, toss the potatoes with the oil and 1/2 teaspoon salt. Coat a baking sheet with cooking spray and spread the potatoes in a single layer. Bake until golden and crisp, about 35 minutes. Remove the fries with a spatula and season with salt.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Mediterranean Bulgur",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2008/10/21/0/FNMMediterraneanBulgur_s3x4.jpg.rend.hgtvcom.826.620.suffix/1382538683745.jpeg",
+      "review_count": "0 Reviews",
+      "rating": "0.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "2",
+      "ingredients": [],
+      "directions": [
+        "              Toast 1 cup bulgur in a dry skillet until fragrant, about 5 minutes. Pour 2 1/2 cups boiling water over the bulgur in a heat-resistant bowl and cover tightly with plastic wrap. Let stand for 15 minutes, then toss with a little olive oil, some chopped dried apricots and olives, and salt and pepper to taste.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Whole-Grain Herbed Garlic Bread",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2012/2/14/0/CC_WHOLE-GRAIN-HERBED-GARLIC-BREAD_s4x3.jpg.rend.hgtvcom.826.620.suffix/1371603127975.jpeg",
+      "review_count": "1 Review",
+      "rating": "5.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "1/2 head garlic (horizontally split)",
+        "2 teaspoons olive oil",
+        "2 tablespoons chopped fresh parsley",
+        "2 teaspoons chopped fresh thyme",
+        "One 4-ounce whole-grain demi baguette or hoagie roll, halved lengthwise",
+        "1 1/2 tablespoons finely grated Parmesan",
+        "Kosher salt"
+      ],
+      "directions": [
+        "              Preheat the oven to 375 degrees F. Place the garlic on a double-thick square of aluminum foil, drizzle with 1/2 teaspoon of the oil and fold up the foil to enclose the garlic securely. Place the garlic directly on the oven rack and bake until it is golden brown and meltingly soft, about 1 hour. Unwrap and set aside until cool enough to handle, about 5 minutes.             ",
+        "              Combine the parsley, thyme and remaining 1 1/2 teaspoons olive oil in a small bowl. Remove the roasted garlic cloves from the white papery husks with the tip of a butter knife and place them in the bowl. Mash with a fork until smooth and spreadable. Spread the mixture evenly over the bread halves and sprinkle with the Parmesan and salt to taste. Place on a baking sheet and broil (about 6 inches from the heat source) until the top is just browned, about 2 minutes. Cut into 4 pieces and serve warm.             "
+      ],
+      "chef_note": "Halve the head of garlic horizontally, exposing a section of all the cloves. Use the bottom half for this recipe, and reserve top half for another use."
+    },
+    {
+      "title": "Grilled Polenta",
+      "author_name": "Guy Fieri",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/guy-fieri/FN-TalentAvatar-Guy-Fieri-colorblock.jpg.rend.hgtvcom.126.126.suffix/1531174403377.jpeg",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2010/10/26/1/GI0911_Grilled-Polenta_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382539511486.jpeg",
+      "review_count": "11 Reviews",
+      "rating": "4.7 of 5 stars",
+      "level": "Easy",
+      "duration": " 15 min",
+      "yield": "8 servings",
+      "ingredients": [
+        "Deselect All",
+        "3 cups water",
+        "2 teaspoons kosher salt",
+        "1 1/2 cups quick cooking polenta, medium or coarse-grain",
+        "1 teaspoon freshly ground black pepper",
+        "1 teaspoon freshly chopped thyme leaves",
+        "1 teaspoon freshly chopped marjoram leaves",
+        "2 tablespoons unsalted butter, plus more for pan",
+        "3/4 cup grated Parmesan",
+        "1/4 cup olive oil, for grilling or pan searing"
+      ],
+      "directions": [
+        "              In a medium saucepan, over medium-high heat, bring the water and the salt to just a boil. Reduce the heat, slowly whisk in the polenta and season with pepper. Continue to whisk until the mixture starts to tighten up, about 3 to 4 minutes. Add the fresh chopped herbs, 2 tablespoons of the butter and the Parmesan. Continue to stir until well combined and very thick, taste for seasoning adjustment.            ",
+        "              Liberally butter a 10-inch springform pan on the bottom and about 2-inches up the side. Pour in the hot polenta and with a rubber spatula, rubbed with butter, smooth out the top. Set aside to cool to room temperature, then cover with plastic wrap and refrigerate for 2 hours to set. (This can also be done up to 1 day ahead.)            ",
+        "              Preheat a grill to medium.            ",
+        "              When ready to grill, or pan fry, remove the polenta from the pan and cut it into equal pie shapes or cut circles with a biscuit cutter. Lightly oil a grill, brush each side of the polenta with olive oil and grill or pan sear until golden brown, about 3 minutes on each side. Arrange the polenta on a serving platter and serve hot.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Rutabaga Mash",
+      "author_name": "The Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/shows/t/the-kitchen/FN-ShowLogo-TheKitchen-1920x1080.jpg.rend.hgtvcom.126.126.suffix/1396386204323.jpeg",
+      "recipe_img": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2015/12/19/0/KC0805H_Rutabaga-Mash_s4x3.jpg.rend.hgtvcom.826.620.suffix/1450733463860.jpeg",
+      "review_count": "2 Reviews",
+      "rating": "4.5 of 5 stars",
+      "level": "Easy",
+      "duration": " 45 min",
+      "yield": "8 to 10 servings",
+      "ingredients": [
+        "Deselect All",
+        "3 pounds rutabaga (about 1 large rutabaga), peeled and roughly chopped",
+        "Kosher salt and freshly ground black pepper ",
+        "1 cup chicken stock ",
+        "4 tablespoons (1/2 stick) unsalted butter "
+      ],
+      "directions": [
+        "              Put the chopped rutabaga in a pot, cover with water and add a pinch of salt. Bring to a simmer and simmer until soft, about 30 minutes; drain.            ",
+        "              Meanwhile, put the chicken stock and butter in a medium pot and heat over medium heat until warmed through.            ",
+        "              Transfer the rutabaga and warm stock mixture to a food processor and puree (or use an immersion blender). Season with salt and pepper.            "
+      ],
+      "chef_note": ""
+    }
+  ]
+}
