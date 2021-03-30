@@ -1,0 +1,391 @@
+{
+  "title": "Healthy Oatmeal Recipes",
+  "slug": "healthy-oatmeal-recipes",
+  "url": "https://www.foodnetwork.com/healthy/packages/healthy-every-week/healthy-oatmeal-recipes",
+  "description": "This breakfast indulgence is a hearty way to start the day without any unnecessary calories to weigh you down.",
+  "count": "13",
+  "thumbnails": [
+    "//food.fnr.sndimg.com/content/dam/images/food/fullset/2013/10/1/2/CCGEA506_overnight-oatmeal-recipe_s4x3.jpg.rend.hgtvcom.301.226.suffix/1387416387670.jpeg",
+    "//food.fnr.sndimg.com/content/dam/images/food/fullset/2012/10/26/0/fnk_healthy-hot-chocolate-banana-nut-oatmeal_s4x3.jpg.rend.hgtvcom.301.226.suffix/1382541950946.jpeg",
+    "//food.fnr.sndimg.com/content/dam/images/food/fullset/2011/8/4/0/EA1E06_steel-cut-oatmeal_s4x3.jpg.rend.hgtvcom.301.226.suffix/1385419663918.jpeg",
+    "//food.fnr.sndimg.com/content/dam/images/food/fullset/2013/4/26/0/FNK_CINNAMON-OATMEAL-PANCAKES_s4x3.jpg.rend.hgtvcom.301.226.suffix/1382542459351.jpeg"
+  ],
+  "recipe_urls": [
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/hot-chocolate-banana-nut-oatmeal-recipe-2172334",
+    "https://www.foodnetwork.com/recipes/alton-brown/steel-cut-oatmeal-recipe-1939448",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/cinnamon-oatmeal-pancakes-with-honey-apple-compote-recipe-2112117",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/overnight-oats-no-cook-blueberry-almond-oatmeal-3362245",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/slow-cooker-whole-grain-breakfast-porridge-3362390",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/tropical-oatmeal-smoothie-3362340",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/ham-egg-and-cheese-oatmeal-3362469",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/whole-grain-breakfast-porridge-recipe2-1972735",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/berry-oatmeal-bake-3362604",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/spinach-tomato-and-feta-oatmeal-3362539",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/peachy-oat-smoothie-3363135",
+    "https://www.foodnetwork.com/recipes/eddie-jackson/savory-curry-granola-with-coconut-oil-nuts-and-seeds-3473065"
+  ],
+  "recipes": [
+    {
+      "title": "\"Hot Chocolate\" Banana-Nut Oatmeal",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "id": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2012/10/26/0/fnk_healthy-hot-chocolate-banana-nut-oatmeal_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382541950946.jpeg",
+      "review_count": "22 Reviews",
+      "rating": "4.6 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "2 cups plain almond milk",
+        "2 fully-ripened large bananas (1 1/2 diced and 1/2 thinly sliced crosswise)",
+        "1/4 teaspoon pure almond extract",
+        "1/4 teaspoon pure vanilla extract",
+        "Kosher salt",
+        "2 cups old-fashioned rolled oats",
+        "2 tablespoons unsweetened cocoa powder",
+        "2 tablespoons honey or agave nectar",
+        "1/3 cup toasted and chopped walnuts",
+        "Pinch ground cinnamon",
+        "2 tablespoons semisweet chocolate chips"
+      ],
+      "directions": [
+        "              Bring the almond milk, 1 3/4 cups water, the diced bananas, almond and vanilla extracts and pinch of salt to a boil in a large saucepan over high heat.             ",
+        "              Stir in the oats, cocoa powder and 1 tablespoon of the honey and reduce the heat to medium. Cook, stirring frequently, until the oats are fully cooked to desired consistency, 6 to 7 minutes.             ",
+        "              Transfer to 4 bowls, top with the sliced bananas, walnuts, the remaining 1 tablespoon honey, cinnamon and chocolate chips and serve.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Steel Cut Oatmeal",
+      "author_name": "Alton Brown",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/alton-brown/FN-TalentAvatar-Alton-Brown.jpg.rend.hgtvcom.126.126.suffix/1532979092729.jpeg",
+      "id": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2011/8/4/0/EA1E06_steel-cut-oatmeal_s4x3.jpg.rend.hgtvcom.826.620.suffix/1385419663918.jpeg",
+      "review_count": "241 Reviews",
+      "rating": "4.7 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "1 tablespoon butter",
+        "1 cup steel cut oats",
+        "3 cups boiling water",
+        "1/2 cup whole milk",
+        "1/2 cup plus 1 tablespoon low-fat buttermilk",
+        "1 tablespoon brown sugar",
+        "1/4 teaspoon cinnamon"
+      ],
+      "directions": [
+        "              In a large saucepot, melt the butter and add the oats. Stir for 2 minutes to toast. Add the boiling water and reduce heat to a simmer. Keep at a low simmer for 25 minutes, without stirring.            ",
+        "              Combine the milk and half of the buttermilk with the oatmeal. Stir gently to combine and cook for an additional 10 minutes. Spoon into a serving bowl and top with remaining buttermilk, brown sugar, and cinnamon.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Cinnamon Oatmeal Pancakes with Honey Apple Compote",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "id": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2013/4/26/0/FNK_CINNAMON-OATMEAL-PANCAKES_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382542459351.jpeg",
+      "review_count": "6 Reviews",
+      "rating": "5.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "1 1/2 cups apple cider",
+        "1 tablespoon honey",
+        "2 Golden Delicious apples, peeled and cut into 1/2-inch chunks ",
+        "3/4 cup whole wheat flour",
+        "3/4 cup quick-cooking oats",
+        "2 tablespoons sugar",
+        "1 teaspoon baking powder",
+        "1/2 teaspoon ground cinnamon",
+        "1/4 teaspoon fine salt",
+        "1 cup lowfat (1-percent) milk",
+        "3 tablespoons unsalted butter, melted and cooled",
+        "1 large egg",
+        "1 teaspoon canola oil"
+      ],
+      "directions": [
+        "              Bring the cider to a boil in a small saucepan over high heat; lower the heat and simmer until reduced by half, 15 to 18 minutes. Stir in the honey and apples, reduce the heat to low and simmer until thick enough to coat the back of a spoon, about 30 minutes.             ",
+        "              Meanwhile, combine the flour, oats, sugar, baking powder, cinnamon and salt in a blender until the oats are finely ground. Add the milk, butter and egg and blend until smooth, scraping down the sides of the blender occasionally.             ",
+        "              Heat a nonstick skillet over medium-low heat. With a paper towel, wipe the oil on the surface of the heated skillet. Ladle 1 tablespoon of the batter onto the skillet to make a pancake. Make 4 to 5 more pancakes, taking care to keep them evenly spaced apart. Cook until bubbles break the surface of the pancakes and the undersides are golden brown, about 2 minutes. Flip with a spatula and cook for 1 minute more.             ",
+        "              Serve immediately with the apple compote, or transfer to a platter and cover loosely with foil to keep warm. Repeat with the remaining batter, wiping the griddle with the oiled paper towel as needed.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Overnight Oats: No-Cook Blueberry-Almond Oatmeal",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "id": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2014/3/5/0/FNK_Healthy-Overnight-Blueberry-Almond-Oatmeal_s4x3.jpg.rend.hgtvcom.826.620.suffix/1394028428944.jpeg",
+      "review_count": "16 Reviews",
+      "rating": "4.2 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "Serves 1",
+      "ingredients": [
+        "Deselect All",
+        "3/4 cup nonfat milk",
+        "1/2 cup old-fashioned rolled oats",
+        "1/3 cup blueberries",
+        "1 teaspoon packed light brown sugar",
+        "1/4 teaspoon finely grated lemon zest",
+        "1/8 teaspoon pure vanilla extract",
+        "3 drops pure almond extract",
+        "Kosher salt",
+        "1 tablespoon toasted sliced almonds",
+        "2 teaspoons honey or agave nectar"
+      ],
+      "directions": [
+        "              The night before, combine the milk, oats, blueberries, brown sugar, lemon zest, vanilla, almond extract and a pinch of salt in a glass pint jar or other container with a lid. Secure the lid and shake. Refrigerate at least 6 hours up to overnight. In the morning, top with the almonds and drizzle with honey.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Slow-Cooker Whole-Grain Breakfast Porridge",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "id": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2014/3/5/1/FNK_Healthy-Slow-Cooker-Whole-Grain-Breakfast-Porridge_s4x3.jpg.rend.hgtvcom.826.620.suffix/1396383069369.jpeg",
+      "review_count": "1 Review",
+      "rating": "4.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 5 min",
+      "yield": "6 to 8 servings",
+      "ingredients": [
+        "Deselect All",
+        "3/4 cup dehulled whole barley",
+        "3/4 cup steel-cut oats",
+        "1/2 cup cornmeal (not coarsely ground)",
+        "3 tablespoons light brown sugar, plus more for sprinkling",
+        "1 teaspoon pure vanilla extract",
+        "1 cinnamon stick",
+        "Kosher salt",
+        "Topping suggestions: milk, chopped dried fruit, fresh fruit or nuts"
+      ],
+      "directions": [
+        "              Combine 4 1/2 cups water, barley, oats, cornmeal, brown sugar, vanilla, cinnamon stick and 1/2 teaspoon salt in a slow cooker and cover and let sit overnight, at least 8 hours.            ",
+        "              In the morning, set the slow cooker to high and cook until the grains are tender, about 2 hours, stirring once halfway through. Ladle the porridge into serving bowls and add your favorite toppings, such as milk, dried fruit, fresh fruit or nuts.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Tropical Oatmeal Smoothie",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "id": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2014/3/5/1/FNK_Healthy-Tropical-Oat-Smoothie_s4x3.jpg.rend.hgtvcom.826.620.suffix/1396383104702.jpeg",
+      "review_count": "3 Reviews",
+      "rating": "4.5 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "2 servings",
+      "ingredients": [
+        "Deselect All",
+        "1/2 cup old-fashioned rolled oats",
+        "1 small banana, peeled and broken into 4 pieces",
+        "1 1/2 cups plain unsweetened coconut milk beverage",
+        "Juice of 1/2 small lemon (about 1 tablespoon)",
+        "1/2 teaspoon pure vanilla extract",
+        "Kosher salt",
+        "3/4 cup frozen unsweetened mango cubes",
+        "3/4 cup frozen unsweetened pineapple cubes",
+        "Fresh pineapple wedges, for garnish"
+      ],
+      "directions": [
+        "              Add the oats to a blender, cover and blend to a fine powder. Add 2 ice cubes, banana, coconut milk, lemon juice, vanilla and 1/8 teaspoon salt, cover and blend until smooth. Add the mango and pineapple, cover and blend until smooth, at least 1 minute.            ",
+        "              Pour the smoothie into two large chilled glasses and garnish with a pineapple wedge.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Ham, Egg and Cheese Oatmeal",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "id": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2014/3/5/1/FNK_Healthy-Ham-Egg-and-Cheese-Oatmeal_s4x3.jpg.rend.hgtvcom.826.620.suffix/1396383071529.jpeg",
+      "review_count": "1 Review",
+      "rating": "5.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 25 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "Kosher salt and freshly ground black pepper",
+        "2 cups old-fashioned rolled oats",
+        "4 ounces lean Black Forest ham, cut into 1/2-inch cubes",
+        "3 ounces shredded Gruyere or Cheddar (about 3/4 cup)",
+        "1/3 cup chopped fresh chives (about 1/3 small bunch); plus more for garnish",
+        "2 teaspoons extra-virgin olive oil",
+        "4 large eggs"
+      ],
+      "directions": [
+        "              Bring 4 1/4 cups water, 1 teaspoon salt and 1/2 teaspoon pepper to a boil in a large saucepan. Stir in the oats, reduce heat to medium and cook, stirring constantly, until the oats are soft and the oatmeal is slightly thickened, about 7 minutes. Stir in the ham, cheese and chives and remove the saucepan from the heat.            ",
+        "              Heat the oil in a large nonstick skillet over medium-high heat. Carefully crack the eggs into the pan and cook until the whites are set and slightly crispy and the yolk is still runny, 2 to 3 minutes. Sprinkle with 1/4 teaspoon salt.            ",
+        "              Transfer the oatmeal to individual bowls. Top each with an egg, sprinkle with additional fresh chives and serve.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Whole-Grain Breakfast Porridge",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "id": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2009/9/25/1/FNM-100109-Slow-Cooker-006_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382539084069.jpeg",
+      "review_count": "14 Reviews",
+      "rating": "4.3 of 5 stars",
+      "level": "Easy",
+      "duration": " 15 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "1/2 cup red or wild rice",
+        "1/2 cup steel-cut oats",
+        "1/4 cup pearl barley or farro",
+        "1/2 cup farina or wheat cereal",
+        "1 2-inch piece orange peel",
+        "1 cinnamon stick",
+        "1 to 2 tablespoons packed dark or light brown sugar",
+        "1/4 teaspoon salt",
+        "1/4 cup dried fruit (cranberries, cherries, raisins and/or chopped apricots)",
+        "Chopped nuts, maple syrup and/or milk, for serving (optional)"
+      ],
+      "directions": [
+        "              Up to 12 hours before serving, put the rice, oats, barley and farina in a 6-to-10-cup rice cooker. Stir in the orange peel, cinnamon stick, sugar, salt and 5 cups water. Add the dried fruit.            ",
+        "              Close the cooker, set the timer and program for the porridge cycle so that breakfast is ready at the desired time. (If you don't have a porridge setting on your rice cooker, program for 50 to 55 minutes.            ",
+        "              Serve the warm porridge with nuts, syrup and/or milk, if desired.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Berry-Oatmeal Bake",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "id": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2014/3/5/1/FNK_Healthy-Berry-Oatmeal-Bake_s4x3.jpg.rend.hgtvcom.826.620.suffix/1396383071021.jpeg",
+      "review_count": "47 Reviews",
+      "rating": "4.9 of 5 stars",
+      "level": "Easy",
+      "duration": " 5 min",
+      "yield": "Serves 6",
+      "ingredients": [
+        "Deselect All",
+        "2 teaspoons unsalted butter",
+        "1 1/4 cups old-fashioned rolled oats",
+        "3 tablespoons light brown sugar",
+        "Kosher salt",
+        "1 2/3 cups plain unsweetened almond milk",
+        "1 large egg",
+        "1 teaspoon pure vanilla extract",
+        "1/4 teaspoon pure almond extract",
+        "1/3 cup skin-on sliced almonds",
+        "1/3 cup old-fashioned rolled oats",
+        "1/3 cup light brown sugar",
+        "2 tablespoons unsalted butter, melted",
+        "1 tablespoon whole-wheat pastry flour or unbleached all-purpose flour",
+        "1/8 teaspoon ground cinnamon",
+        "Kosher salt",
+        "12 ounces frozen mixed berries, thawed (2 1/2 cups frozen; 1 1/2 cups thawed)",
+        "Two-percent Greek yogurt or low-fat milk, for serving, optional"
+      ],
+      "directions": [
+        "              Preheat the oven to 350 degrees F. Grease a 2-quart baking dish or 8-inch square baking pan with the butter.            ",
+        "              For the oatmeal: Stir together the oats, sugar and 1/8 teaspoon salt in a large bowl. Whisk together the almond milk, egg, vanilla and almond extract in a medium bowl. Pour the milk mixture into the oat mixture and stir well to combine.            ",
+        "              For the topping: Stir together the almonds, oats, sugar, butter, flour, cinnamon and 1/8 teaspoon salt in a medium bowl until evenly combined.            ",
+        "              To assemble: Pour the oatmeal into the prepared baking dish. Arrange the berries (including any juices) over the oatmeal. Sprinkle with the topping. Bake until lightly browned and just set, about 50 minutes. Let cool on a rack for 10 to 15 minutes. Serve warm with a dollop of yogurt or a splash of milk if using.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Spinach, Tomato and Feta Oatmeal",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "id": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2014/3/5/1/FNK_Healthy-Spinach-Tomato-and-Feta-Oatmeal_H.jpg.rend.hgtvcom.826.620.suffix/1396383071197.jpeg",
+      "review_count": "3 Reviews",
+      "rating": "5.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 10 min",
+      "yield": "4 servings",
+      "ingredients": [
+        "Deselect All",
+        "2 teaspoons fresh lemon juice",
+        "Kosher salt and freshly ground black pepper",
+        "1/8 teaspoon crushed red pepper, optional",
+        "2 cups old-fashioned rolled oats",
+        "One 5-ounce package fresh baby spinach",
+        "1 cup grape tomatoes, halved",
+        "3/4 cup crumbled feta",
+        "2 tablespoons extra-virgin olive oil",
+        "2 teaspoons finely chopped fresh dill",
+        "2 scallions, thinly sliced",
+        "Kalamata olives, sliced, optional"
+      ],
+      "directions": [
+        "              Bring 4 cups water, lemon juice, 1 1/4 teaspoons salt, 1/2 teaspoon pepper and crushed red pepper if using to a boil in a large saucepan.            ",
+        "              Stir in the oats, spinach and tomatoes, reduce the heat to medium and cook, stirring frequently, until the oats are just softened and the mixture is slightly thickened, about 7 minutes. Remove the saucepan from the heat and stir in the feta, oil and dill.            ",
+        "              Transfer the oatmeal to individual bowls and garnish with scallions and olives if using.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Peachy Oat Smoothie",
+      "author_name": "Food Network Kitchen",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/food-network-kitchen/FN-Avatar-FN-Logo-126x126.png.rend.hgtvcom.126.126.suffix/1538326606192.png",
+      "id": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2014/9/1/0/FNK_06-Peachy-Oat-Smoothie_s4x3.jpg.rend.hgtvcom.826.620.suffix/1409795852718.jpeg",
+      "review_count": "1 Review",
+      "rating": "5.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 5 min",
+      "yield": "1 serving",
+      "ingredients": [
+        "Deselect All",
+        "3 tablespoons quick-cooking rolled oats",
+        "1/4 cup hot water",
+        "2 small, ripe yellow peaches, peeled, pitted and roughly chopped, plus one wedge reserved for garnish",
+        "3/4 cup ice cubes",
+        "1/3 cup lowfat vanilla yogurt",
+        "1 tablespoon honey",
+        "Pinch ground cinnamon"
+      ],
+      "directions": [
+        "              Stir the oats and water together in a small bowl and let sit for 5 minutes.            ",
+        "              Put the oat mixture, peaches, ice cubes, yogurt, honey and cinnamon into a blender. Blend on high until very smooth. Add 1 to 2 tablespoons of water if needed to adjust consistency. Pour into a glass and garnish with a peach wedge.            "
+      ],
+      "chef_note": ""
+    },
+    {
+      "title": "Savory Curry Granola with Coconut Oil, Nuts and Seeds",
+      "author_name": "Eddie Jackson",
+      "author_img": "//food.fnr.sndimg.com/content/dam/images/food/editorial/talent/eddie-jackson/FN-TalentAvatar-Eddie-Jackson.jpg.rend.hgtvcom.126.126.suffix/1533500178576.jpeg",
+      "id": "//food.fnr.sndimg.com/content/dam/images/food/fullset/2016/12/2/1/EddieJacksonPlaybook_Savory-Granola-2_s4x3.jpg.rend.hgtvcom.826.620.suffix/1480942835004.jpeg",
+      "review_count": "3 Reviews",
+      "rating": "5.0 of 5 stars",
+      "level": "Easy",
+      "duration": " 1 hr 45 min",
+      "yield": "32 servings",
+      "ingredients": [
+        "Deselect All",
+        "4 large egg whites",
+        "1/2 cup coconut oil ",
+        "3 tablespoons pure maple syrup ",
+        "4 teaspoons Madras curry powder ",
+        "1 1/2 teaspoons cayenne pepper ",
+        "Kosher salt ",
+        "3 cups old-fashioned rolled oats ",
+        "2 cups coconut chips ",
+        "1 cup sliced almonds ",
+        "1 cup pecan halves ",
+        "3/4 cup pepitas ",
+        "3/4 cup sunflower seeds ",
+        "1/4 cup flax seeds ",
+        "1/4 cup sesame seeds ",
+        "2 tablespoons chia seeds ",
+        "Maldon salt, for serving, optional "
+      ],
+      "directions": [
+        "              Position 2 oven racks in the upper and lower thirds of the oven and preheat the oven to 300 degrees F. Line 2 rimmed baking pans with parchment paper.            ",
+        "              In a medium bowl, whisk the egg whites until foamy. Add the coconut oil, maple syrup, curry powder, cayenne and 3/4 teaspoon salt. Whisk to combine. In a large bowl, combine the oats, coconut chips, almonds, pecans, pepitas, sunflower seeds, flax seeds, sesame seeds and chia seeds. Toss to combine. Add the wet ingredients and stir to coat completely. Divide between the prepared baking pans.            ",
+        "              Bake, flipping carefully only after 40 minutes to maintain large pieces, until golden and crispy, about 1 hour. Remove from the oven and sprinkle with Maldon salt, if using. Cool completely, then store in an airtight container for up to 2 weeks.            "
+      ],
+      "chef_note": ""
+    }
+  ]
+}
